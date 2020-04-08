@@ -1,0 +1,41 @@
+# BUSINESS MATHEMATICS - ARITHMETIC AND GEOMETRIC SERIES
+
+## Notes
+
+
+
+
+## TUTORIAL
+
+1. Given a sequence 6, 12, 24, … , 3072.  Find the number of terms in the sequence.  
+
+2.	The sum of the first 20 terms of an arithmetic sequence is 840.  If the common difference is 4, find:
+
+a.	the first term
+
+b.	the sum of the first 30 terms.		
+                    Ans:  4; 1860
+
+3.	The third term of a geometric progression is 2 and the sixth term is 16.  Find the first term  and the common ratio.
+Ans:  1/2; 2
+
+4.	The first term of an arithmetic sequence is –5 and its last term is 40.  If its common difference is 3, find the number of terms and the sum of all the terms in the series.
+		Ans:  16; 280
+
+5.	The third and the eighth terms of a geometric sequence are 18 and 4374 respectively.  Find the first term and the common ratio.
+Ans:  2; 3
+
+6.	In a certain city, the condition of haze was measured by an index.  On a particular day, the haze index was 84.  The index then increases by 2% each day.  Find the index on the 12th day.
+				      Ans:  104.4
+
+7.	A building has 30 floors.  The cleaning cost for the first floor is RM100, second floor is RM150, third floor is RM200, and so on.  Find the cleaning cost for the whole building.
+						Ans:  24750.00
+
+												
+8.	There are 12 terms in a geometric progression.  The last term is 1024.  The fourth term divided by the second term equals 4.  Find the first term if the common ratio is positive.
+Ans:  1/2
+
+
+
+
+	

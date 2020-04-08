@@ -1,0 +1,63 @@
+---
+title: "Business Mathematics MAT11"
+description: |
+  Welcome to the MAT111 BUsiness Mathematics Courseweb. I hope you enjoy it!
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+# Course Information    
+### *Course Learning Outcomes*
+At the end of the course, students should be able to:  
+1. Solve basic mathematical problems. ( C3 A1 P2 )  
+2. Apply mathematical concepts to solve mathematical problems in finance and banking. ( C4 A1 P2 )  
+3. Apply mathematical concepts to solve mathematical problems in trading and retailing. ( C5 P2 A1 )  
+  
+   
+### *Course Description*
+The course is primarily designed to strengthen the fundamental concepts of mathematics with emphasis on business
+application and problem solving.  
+  
+  
+### *Syllabus Content*  
+1. Fundamental Concepts Of Mathematics  
+    a. Introduction to arithmetic operations  
+    b. Linear Equations  
+    c. Fractions, decimals, ratios and percentages  
+2. Simple Interest  
+    a. Simple Interest and Bank Discount  
+    b. Present Value, Rate and Time  
+    c. Applications of Simple Interest and Bank Discount
+3. Compound Interest  
+    a. Compound Interest and Compound Amount  
+    b. Present Value  
+    c. Applications of Compound Interest  
+4. Business Loans and Instalment Purchase   
+    a. Discounted Loan  
+    b. Flat Rate Loan  
+    c. Reducing Balance Loan  
+    d. Instalment purchase  
+5. Mathematics of Trading  
+    a. Trade Discount  
+    b. Single discount equivalent  
+    c. Cash discount  
+6. Mathematics of Retailing  
+    a. Mark up and mark down  
+    b. Gross profit, net profit and break even price  
+  
+  
+### *References*  
+1. Lau Too Kya, Phang Yook Ngor and Wee Kok Kiang, Business Mathematics for UiTM, 4th, Oxford Fajar Sdn. Bhd., ISBN: 9789676571601.  
+2. James Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: 1111821321.  
+3. Jeffrey Slater,Sharon M. Wittry, Math for Business and Finance, McGraw-Hill, 2014, ISBN: 9780077662622.  
+4. Stanley A. Salzman,Gary Clendenen, Mathematics for Business, 10th, Addison-Wesley Longman, 2012, ISBN: 9780132898355.  
+  
+  
+### *Course Assessment*  
+Final examination – One 3-hour paper	: 60%  
+Course Work (Continuous assessments) 	: 40%  
+    - Test (3)	    : 30%  
+    - Quizzes (4) 	: 10%  
+
+***  

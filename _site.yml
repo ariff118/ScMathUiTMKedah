@@ -1,0 +1,70 @@
+name: "scmathkdh_online"
+title: "Sc Math Kedah Online Classroom"
+description: |
+  Sc Math UiTM Kedah Online Classroom
+output_dir: "_site"
+creative_commons: CC BY
+base_url: https://beta.rstudioconnect.com/content/3776/
+favicon: images/favicon.png
+google_analytics: "UA-77306155-2"
+navbar:
+  logo: images/logo_uitm.png
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Courses"
+      menu:
+        - text: "MAT111"
+          href: mat111.html
+        - text: "MAT112"
+          href: mat112.html
+        - text: "QMT181/STA104"
+          href: qmt181.html
+    - text: "MAT112/MAT402"
+      menu:
+        - text: "Chapter 1 - Sequence"
+          href: sequence.html
+        - text: "Chapter 2 - Simple Interest"
+          href: simple.html
+        - text: "Chapter 3 - Bank Discount and Promissory Note"
+          href: bd_pn.html
+        - text: "Chapter 4 - Compound Interest"
+          href: compound.html
+        - text: "Chapter 5 - Annuity"
+          href: annuity.html
+        - text: "Chapter 6 - Instalment Purchase"
+          href: instalment.html
+        - text: "Chapter 7 - Trade and Cash Discount"
+          href: tcd.html
+        - text: "Chapter 8 - Mathematics of Retailing"
+          href: mathretail.html
+        - text: "Chapter 9 - Depreciation"
+          href: depreciation.html
+        - text: "Chapter 10 - Income Tax"
+          href: income_tax.html
+    - text: "QMT181/STA104"
+      menu:
+        - text: "Scheme of Work"
+          href: sow_qmt181.html
+        - text: "Group Project"
+          href: project_qmt181.html
+    - text: "About Us"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/ariff118/
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/kamarul.ariffin.9235
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+    - text: "Contributors"
+      href: contributors.html
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    self_contained: true
+  

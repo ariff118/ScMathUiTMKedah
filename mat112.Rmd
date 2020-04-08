@@ -1,0 +1,118 @@
+---
+title: "Business Mathematics MAT112"
+description: |
+  Welcome to the MAT112 BUsiness Mathematics Courseweb. I hope you enjoy it!
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+# Course Information  
+
+### *Course Outcomes*  		
+At the end of the course, students should be able to:  
+•	Understand and describe mathematical terms encountered in business, finance and investment. (C2, P3, A3)  
+•	Solve basic mathematical problems involving sequence. (C3, P3, A3)  
+•	Apply mathematical concepts to solve mathematical problems in other areas such as business, statistics, finance, economics, etc. (C5, P3, A3)  
+  
+### *Course Description*  
+The course is primarily designed to develop the mathematical knowledge needed by the students to meet the demands of business operation.  It is to provide a solid coverage of the most basic and frequently occurring business situations.  
+  
+  
+### *Syllabus Content*  
+1.   Sequence [Presentation](Sequence.html) [Download](files/slides/Sequence.pdf)  
+      •	Introduction to sequence  
+      •	Arithmetic sequence  
+      •	Finding the nth term and the sum of the first n terms  
+      •	Geometric sequence  
+      •	Finding the nth term and the sum of the first n terms  
+  
+2.   Simple Interest [Presentation](Simple Interest.html) [Download](files/slides/Simple Interest.pdf)  
+      •	Introduction to interest  
+      •	Simple interest formula  
+      •	Simple amount formula  
+      •	Exact time and approximate time  
+      •	Ordinary simple interest and exact simple interest  
+      •	Banker’s Rule  
+      •	Present Value  
+  
+3.   Bank Discount and Promissory Notes [Presentation](Promissory Note & Bank Discount.html) [Download](files/slides/Promissory Note & Bank Discount.pdf)    
+      •	Introduction to promissory notes  
+      •	Introduction to bank discount  
+      •	Simple interest rate equivalent to bank discount rate  
+  
+4.    Compound Interest  
+      •	Time value of money  
+      •	Introduction to compound interest  
+      •	Important terms use in compound interest  
+      •	Compound interest formula  
+      •	Present Value  
+  
+5.    Annuity   
+      •	Introduction to annuity and types of annuities  
+      •	Future value of ordinary annuity certain  
+      •	Present value of ordinary annuity certain  
+      •	Solving for R and n.  
+  
+6.    Instalment Purchase  
+      •	Introduction to installment purchase  
+      •	Interest based on original balance  
+      •	Interest based on reducing balance – constant ratio formula   
+      •	Unpaid principal balance using Rule of 78  
+  
+7.   Trade and Cash Discounts  
+      •	Introduction to trade discount  
+      •	Net price formula  
+      •	Chain discount  
+      •	Single discount equivalent to chain discount  
+      •	Cash discount  
+  
+8.   Mathematics of Retailing  
+      •	Cost, selling price, profit, loss  
+      •	Mark up and mark down  
+      •	Profit and loss: Gross profit, net profit and breakeven price  
+      •	Trade discount & Mathematics of retailing  
+  
+9.   Depreciation  
+      •	Introduction to depreciation  
+      •	Straight line method  
+      •	Declining balance method  
+  
+  
+### *References*  
+
+**Recommended Text**  
+Lau Too Kya, Phang Yook Ngor and Wee Kok Kiang, Business Mathematics for UiTM 3rd edition, Fajar Bakti, 2009  
+
+**References**  
+
+Frank Ayers, Mathematics of Finance, Schaum Series, McGraw-Hill Book Company, 1997  
+Charles D. Miller, Stanley A. Salzman, Gary Clendenen, Business Mathematics, 7th edition, Addision Wesley, 1997  
+Deitz and Southam, Contemporary Business   Mathematics for Colleges, 12th edition, ITP, 1999.  
+Mohd Alias Lazim, Azizah Murad, Wan Hartini Wan Hassan.  Matematik Perniagaan. Biroteks.  
+  
+  
+### *Course Assessment*  
+Final examination – One 3-hour paper	: 60%  
+Course Work (Continuous assessments) 	: 40%  
+    - Test (2)	    : 30%  
+    - Quizzes (3) 	:  6%  
+    - Assignment (1):  4%  
+  
+# Support Materials
+
+| Past Semester Exam Papers | Answer Scheme |  
+|:-------------------------:|:-------------:|  
+| [June 2019](files/support document/mat112/MAT112 June 2019.PDF) | [Answer Scheme June 2019](files/support document/mat112/MAT112 SKEMA JUNE 2019.pdf) |  
+| [Dec 2018](files/support document/mat112/MAT112 Dec 2018.PDF) | [Answer Scheme Dec 2018](files/support document/mat112/MAT112 SKEMA DEC 2018.pdf) |  
+| [Jan 2018](files/support document/mat112/MAT112 Jan 2018.PDF) | [Answer Scheme Jan 2018](files/support document/mat112/MAT112 SKEMA JAN 2018.pdf) |  
+
+
+**Past Test Paper With Answers**  
+[Test 2 Dec 2019](files/support document/mat112/Test 2 Dec 2019.pdf)  
+[Test 1 Nov 2019](files/support document/mat112/Test 1 Nov 2019.pdf)  
+
+**Workshops Questions With Answers**  
+[Nov 2019 Session 1](files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 1.pdf) [Answers](files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 1.pdf)  
+
+[Nov 2019 Session 2](files/support document/mat112/BENGKEL MAT112 NOV 2019 SESI 2.pdf) [Answers](files/support document/mat112/Answer MAT112 Workshop Nov 2019 Session 2.pdf)    

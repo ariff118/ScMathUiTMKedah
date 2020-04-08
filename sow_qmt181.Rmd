@@ -1,0 +1,310 @@
+---
+title: "Scheme of Work"
+description: |
+  Welcome.
+author: 
+  - name: "Kamarul Ariffin Mansor"
+    url: https://my.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+    affiliation: Universiti Teknologi MARA
+    affiliation_url: https://kedah.uitm.edu.my/v2/index.php
+date: 4-6-2020
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 1  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+**Topic 1: Introduction to Statistics**  
+
+1. Definition of statistics  
+
+2. Terms in statistics  
+      - Population and sample  
+      - Parameter and statistic  
+      - Variable  
+      - Census and sample survey (sampling)  
+  
+3. Types of statistics  
+      - Descriptive statistics  
+      - Inferential statistics  
+  
+4. Sources of data  
+      - Primary data  
+      - Secondary data  
+  
+5. Types of variable  
+      - Qualitative data  
+      - Quantitative data (Discrete and continuous)  
+  
+6. Scale of measurement  
+      - Nominal  
+      - Ordinal  
+      - Interval  
+      - Ratio  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+Complete Entrance Survey  
+[Slides](files/Introduction to Statistics.pdf)  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 2  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+7. Sampling techniques  
+
+  a. Probability Sampling  
+      - Simple random sampling (SRS)  
+      - Systematic sampling  
+      - Stratified sampling  
+      - Cluster sampling  
+      - Multistage sampling  
+      
+  b. Nonprobability Sampling  
+      - Convenience sampling  
+      - Quota sampling  
+      
+8. Data Collection Methods  
+  a. Interview (Face to face and telephone)  
+  b. Direct Observation  
+  c. Questionnaire ( self administered, electronic media)  
+  d. Others  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+**Remark:**  
+Define term of sampling unit and sampling frame.  
+Emphasizing calculation on SRS, systematic and stratified sampling.  
+Guidelines to construct the questionnaires.  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 3  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+**Topic 2: Describing Data**  
+Data organization and presentation  
+
+1. Graphical method for qualitative data  
+      - Frequency Distribution Table  
+      - Pie Chart  
+      - Bar chart (Cluster, Stacked)  
+      - Cross tabulation  
+      
+2. Graphical method for quantitative data  
+      - Frequency Distribution Table  
+      - Stem and Leaf  
+      - Histogram  
+      - Frequency Polygon  
+      - Ogive  
+      
+3. Types of distribution  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+**Remarks:**
+Constructing histogram and ogive using graph paper. (compulsory)  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 4  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+4. Numerical methods  
+
+  a. Measure of central tendency for ungrouped and grouped  
+      - Mean  
+      - Median  
+      - Mode  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+**Remarks:**  
+
+Using calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)  
+
+Interpret result from calculation. 
+(Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 5  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+  b. Measure of position for ungrouped and grouped  
+      - Q1, Q2 and Q3  
+      - IQR  
+      - Quartile deviation  
+      - Box and whisker plot  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+**Remarks:**  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 6  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+  c. Measure of dispersion for ungrouped and grouped  
+      - Range  
+      - Variance  
+      - Standard deviation  
+  d. Coefficient of variation for ungrouped and grouped  
+  e. Measure of skewness for ungrouped and grouped  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+**Remarks:**  
+Using calculator to obtain sample mean and standard deviation. (Substitute all the summation values into the respective formula)  
+Interpret result from calculation. (Emphasizing the interpretation on mean, median, mode, skewness and coefficient variation)  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="10%"}
+Week 7  
+:::  
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="60%"}
+**Topic 3: Correlation and Regression**  
+
+1. Correlation  
+    - Define dependent and independent variable  
+    - Scatter Plot  
+    - Pearson’s correlation coefficient **(exclude Spearman’s rank correlation coefficient)**  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="20%"}
+**Remark:**  
+Using calculator to obtain the Pearson’s Correlation Coefficient and Regression Line Equation by applying Least Square Method. (Substitute all the summation values into the respective formula)  
+[Slides](files/CORRELATION AND REGRESSION.pdf)  
+:::
+
+::::::  

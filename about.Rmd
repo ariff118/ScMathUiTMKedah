@@ -1,0 +1,268 @@
+---
+title: "Sc Math Team Members"
+description: |
+  Welcome to the Department of Mathematical Sciences at Faculty of Computer and Mathematical Sciences, UiTM Kedah Branch Campus. We offers servicing courses in Mathematics and Statistics to all the faculties at UiTM Kedah. We started with  Department of Quantitative Sciences and in 2007 it has gone through a rebranding process and is now called Department of Mathematical Sciences. Currently, the Department of Mathematical Sciences consists of 17 lecturers (7 Mathematics, 9 Statistics and 1 Physics).
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<html>
+
+<head>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+</head>
+
+<body>
+
+<div class="w3-content w3-section" style="max-width:800px;max-height=200px">
+  <img class="mySlides" src="images/auto_slides/nature1.jpg" style="width:100%">
+  <img class="mySlides" src="images/auto_slides/nature2.jpg" style="width:100%">
+  <img class="mySlides" src="images/auto_slides/nature3.jpg" style="width:100%">
+  <img class="mySlides" src="images/auto_slides/nature4.jpg" style="width:100%">
+  <img class="mySlides" src="images/auto_slides/nature5.jpg" style="width:100%">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 5000); // Change image every 5 seconds
+}
+</script>
+
+</body>
+</html>
+
+
+
+|![](images/anis_mardiana.jpg)|  
+|:-----:|
+| **Anis Mardiana Binti Ahmad** |    
+| Course Coordinator |    
+| Management Mathematics |
+| anis513@kedah.uitm.edu.my |
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}
+|![](images/rosidah_ahmad.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Rosidah Ahmad (PhD)** |    
+| Senior Lecturer |    
+| Mathematics Education |  
+| rosidah437@uitm.edu.my |
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/noor_rashidah_ali.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Noor Rashidah Ali** |    
+| Senior Lecturer |    
+| Statistics |  
+| norrash@uitm.edu.my |
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}  
+|![](images/shahida_farhan.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|
+|:-----:|
+| **Shaida Farhan Zakaria** |    
+| Senior Lecturer |    
+| Mathematics |  
+| shahidafarhan@uitm.edu.my |
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}  
+|![](images/asmahani_nayan.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|
+|:-----:|
+| **Asmahani Binti Nayan** |    
+| Senior Lecturer |    
+| Applied Statistics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/wan_hasni_sabariah.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Wan Hasni Sabariah Wan Hassan** |    
+| Senior Lecturer |    
+| Mathematics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/noor_hafizah_zainal_aznam.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Noor Hafizah Zainal Aznam** |    
+| Senior Lecturer |   
+| Applied Mathematics |  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}  
+|![](images/amirah.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|
+|:-----:|
+| **'Amirah Hazwani Abdul Rahim** |    
+| Senior Lecturer |    
+| Applied Statistics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/ida_normaya.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Ida Normaya Mohd Nasir** |    
+| Senior Lecturer |    
+| Applied Statistics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/kartini_kasim.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Kartini Kasim** |    
+| Senior Lecturer |   
+| Applied Mathematics |  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}  
+|![](images/norashikin_nasarudin.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|
+|:-----:|
+| **Norashikin Nasarudin** |    
+| Senior Lecturer |    
+| Applied Statistics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/norin.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Norin Rahayu Shamsuddin** |    
+| Senior Lecturer |    
+| Health Statistics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/nur_azlina_abdul_rahid.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Nurazlina Abdul Rashid** |    
+| Senior Lecturer |   
+| Applied Statistics |  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}
+|![](images/siti_fairus.png){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|:-----:|
+| **Siti Fairus Mokhtar** |    
+| Lecturer |   
+| Statistics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/ab_razak.png)|  
+|:-----:|
+| **Ab Razak Mansor** |    
+| Senior Lecturer |    
+| Physics |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}  
+|![](images/profile2.png)|
+|:-----:|
+| **Kamarul Ariffin Mansor** |    
+| Senior Lecturer |    
+| Applied Statistics |  
+:::
+
+::::::  
+
+Link to the [Official Staff Directory at UiTM Kedah](https://kedah.uitm.edu.my/v2/index.php/directory/academic-staff/74-mathematical-science-department)  
