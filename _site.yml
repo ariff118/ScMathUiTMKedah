@@ -23,7 +23,7 @@ navbar:
     - text: "MAT112/MAT402"
       menu:
         - text: "Chapter 1 - Sequence"
-          href: Sequence.html
+          href: sequence.html
         - text: "Chapter 2 - Simple Interest"
           href: simple.html
         - text: "Chapter 3 - Bank Discount and Promissory Note"
