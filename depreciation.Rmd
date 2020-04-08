@@ -209,7 +209,7 @@ The declining balance method produces the highest depreciation charges in the ea
 
 $$
 \begin{align*}
-Rate\ of\ Depreciation(r)\ &=\ 1\ -\ n\sqrt{\frac{S}{C}}\ \ \ \ \ or\ \ \ \ \ 1\ -\ n\sqrt{\frac{BV_n}{C}}\\
+Rate\ of\ Depreciation(r)\ &=\ 1\ -\ \sqrt[3]{\frac{S}{C}}\ \ \ \ \ or\ \ \ \ \ 1\ -\ \sqrt[n]{\frac{BV_n}{C}}\\
 \\
 where\ ,\ n\ &=\ useful\ life\\
 C\ &=\ Cost\\
