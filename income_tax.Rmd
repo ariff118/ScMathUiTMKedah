@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Wors of wisdoms ...  
+> Words of wisdoms ...  
 
 <center>
 <h1> This page is under construction </h1>  
