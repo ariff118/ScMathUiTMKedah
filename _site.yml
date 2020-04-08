@@ -2,7 +2,7 @@ name: "scmathkdh_online"
 title: "Sc Math Kedah Online Classroom"
 description: |
   Sc Math UiTM Kedah Online Classroom
-output_dir: "_site"
+output_dir: "docs"
 creative_commons: CC BY
 base_url: https://beta.rstudioconnect.com/content/3776/
 favicon: images/favicon.png
@@ -23,7 +23,7 @@ navbar:
     - text: "MAT112/MAT402"
       menu:
         - text: "Chapter 1 - Sequence"
-          href: sequence.html
+          href: Sequence.html
         - text: "Chapter 2 - Simple Interest"
           href: simple.html
         - text: "Chapter 3 - Bank Discount and Promissory Note"
