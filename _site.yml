@@ -5,7 +5,7 @@ description: |
 output_dir: "docs"
 creative_commons: CC BY
 base_url: https://beta.rstudioconnect.com/content/3776/
-favicon: images/favicon.png
+favicon: images/logo_uitm_round.jpg
 google_analytics: "UA-77306155-2"
 navbar:
   logo: images/logo_uitm.png
