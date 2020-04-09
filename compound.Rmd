@@ -129,18 +129,16 @@ The time value of money draws from the idea that rational investors prefer to re
 In compound interest, interest is earned on both the principal and any interest that has been earned previously. In this situation each time the interest is calculated, it is based on the new principal value that include the previous amount of interest. Thus, the interest is calculated on the current value of principal at the time of calculation.  
 The process is illustrated in the table shown below.  
 
-<aside>
-![](images/compound/image1.jpg){caption="Simple Interest vs Compound Interest"}  
-</aside>  
 <center>  
 ![](images/compound/image2.png)  
-
 </center>  
 
 
-This is a bit different from simple interest as illustrated in the image on the right sidebar.  
+This is a bit different from simple interest as illustrated in the image shown below.  
 
-
+<center>  
+![](images/compound/image1.jpg){caption="Simple Interest vs Compound Interest"}  
+</center>  
 
 ### Important terms use in compound interest  
 

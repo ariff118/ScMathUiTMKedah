@@ -1380,6 +1380,7 @@ QMT181/STA104
 <nav class="d-toc" id="TOC">
 <ul>
 <li><a href="#introduction-to-sequence">Introduction to sequence</a></li>
+<li><a href="#what-is-a-sequence">What is a sequence?</a></li>
 <li><a href="#arithmetic-sequence">Arithmetic sequence</a><ul>
 <li><a href="#finding-the-nth-term">Finding the nth term</a></li>
 <li><a href="#finding-the-sum-of-the-first-n-terms">Finding the sum of the first n terms</a></li>
@@ -1453,14 +1454,115 @@ function showDivs(n) {
 </body>
 </html>
 <h2 id="introduction-to-sequence">Introduction to sequence</h2>
-<p>In general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequnce is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. Every sequence will have a starting value. In this chapter, students will be introduced to two type of sequence; <strong>Arithmetic Sequence</strong> and <strong>Geometric Sequence</strong>. For both types, students will be exposed on the concepts of the <em>n_th term</em> of a sequence and the <em>sum of the first n_th terms</em> of a sequence.</p>
+<p>In general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequnce is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. In this chapter, students will be introduced to two type of sequence; <strong>Arithmetic Sequence</strong> and <strong>Geometric Sequence</strong>. For both types, students will be exposed on the concepts of the <span class="math inline">\(n^{th}\ term\)</span> of a sequence and the <span class="math inline">\(sum\ of\ the\ first\)</span> <span class="math inline">\(n^{th}\ term\)</span> of a sequence. Finally, students will be exposed on how to apply the concepts of arithmetic and geometric sequences to some common problems in daily life.</p>
+<h2 id="what-is-a-sequence">What is a sequence?</h2>
+<p>Sequence can be defined as a set of numbers which are written in specific order or following a specific rule. For example,<br />
+<span class="math display">\[
+\begin{aligned}
+&amp;0,\ 2,\ 4,\ 6,\ 8,\ …  \\
+&amp;1,\ 3,\ 9,\ 27,\ …  \\
+&amp;17,\ 12,\ 7,\ 2,\ -3,\ -8,\ -13.
+\end{aligned}
+\]</span> The three sets of numbers above are an example of sequence since between adjacent values, it follows certain order or rule.</p>
 <h2 id="arithmetic-sequence">Arithmetic sequence</h2>
+<p>Consider this sequence</p>
+<center>
+<span class="math inline">\(5, 13, 21, 29,…\)</span>
+</center>
+<p>It starts with a particular first term, and to get the next term, add a fixed value to the previous term. In the above set of values, we add 8 to get the next term. The difference between consecutive terms is a constant.<br />
+i.e.,</p>
+<p><span class="math display">\[
+\begin{aligned}
+&amp;5,\ 5 + 8,\ 5 + 8 + 8,\ 5 + 8 + 8 + 8,\ …  \\
+&amp;5,\ 5 + 8,\ 5 + 2(8),\ 5 + 3(8),\ …  \\
+&amp;5,\ 13,\ 21,\ 29,\ …  \\
+\end{aligned}
+\]</span></p>
+<p><em>Definition</em><br />
+An arithmetic progression is a sequence where each new term after the first is obtained by adding a constant <span class="math inline">\(d\)</span>, called the common difference, to the preceding term. If the first term of the sequence is <span class="math inline">\(a\)</span> then the arithmetic progression is</p>
+<center>
+<span class="math inline">\(a, a + d, a + 2d, a + 3d,...\)</span>
+</center>
+<p>where the nth term is given by the formula</p>
+<p><span class="math display">\[
+T_n = a + (n − 1)d  
+\]</span></p>
 <h3 id="finding-the-nth-term">Finding the nth term</h3>
+<p><em>Example 1</em><br />
+Write down the first five terms of the Arithmetic Sequence with first term 8 and common difference 7. So, here we have <span class="math inline">\(a = 8\)</span> and <span class="math inline">\(d = 7\)</span>.<br />
+Using the general formula of <span class="math inline">\(n^{th}\)</span> term,<br />
+<span class="math display">\[
+\begin{aligned}
+T_n &amp;= a + (n - 1)d \\
+T_1 &amp;= a = 8 \\
+T_2 &amp;= a + d = 8 + 7 = 15 \\
+T_3 &amp;= a + 2d = 8 + 2(7) = 22 \\
+T_4 &amp;= a + 3d = 8 + 3(7) = 29 \\
+T_5 &amp;= a + 4d = 8 + 4(7) = 36 \\
+\end{aligned}
+\]</span></p>
+<p>The sequence is <span class="math inline">\(8, 15, 22, 29, 36,…\)</span></p>
+<p><em>Example 2</em><br />
+Write down the first five terms of the Arithmetic Sequence with first term 2 and common difference −5. So, here we have <span class="math inline">\(a = 2\)</span> and <span class="math inline">\(d = -5\)</span>.<br />
+Using the general formula of <span class="math inline">\(n^{th}\)</span> term,</p>
+<p><span class="math display">\[
+\begin{aligned}
+T_n &amp;= a + (n - 1)d \\
+T_1 &amp;= a = 2 \\
+T_2 &amp;= a + d = 2 + (-5) = -3 \\
+T_3 &amp;= a + 2d = 2 + 2(-5) = -8 \\
+T_4 &amp;= a + 3d = 2 + 3(-5) = -13 \\
+T_5 &amp;= a + 4d = 2 + 4(-5) = -18 \\
+\end{aligned}
+\]</span></p>
+<p>The sequence is <span class="math inline">\(2, -3, -8, -13, -18,…\)</span></p>
 <h3 id="finding-the-sum-of-the-first-n-terms">Finding the sum of the first n terms</h3>
+<p>The sum of the terms of an arithmetic progression gives an arithmetic series. If the starting value is <span class="math inline">\(a\)</span> and the common difference is <span class="math inline">\(d\)</span> then the sum of the first <span class="math inline">\(n\)</span> terms is given by,</p>
+<p><span class="math display">\[
+S_n = \frac{n}{2}[2a + (n - 1)d]
+\]</span></p>
+<p><em>Example 3</em></p>
+<p>Find the sum of the first 50 terms of the sequence</p>
+<center>
+<span class="math inline">\(1, 3, 5, 7, 9,...\)</span>
+</center>
+<p>Here, we have <span class="math inline">\(a = 1\)</span>, <span class="math inline">\(d = 2\)</span>, and <span class="math inline">\(n = 50\)</span>. Use the formula <span class="math inline">\(S_n = \frac{n}{2}[2a + (n - 1)d]\)</span>, we get</p>
+<p><span class="math display">\[
+\begin{aligned}
+S_50 &amp;= \frac{50}{2}[2(1) + (50-1)(2)] \\
+&amp;= 25[2+49(2)] \\
+&amp;= 25(100) \\
+&amp;= 2,500 
+\end{aligned}
+\]</span></p>
+<p><em>Example 4</em><br />
+An arithmetic progression has 3 as its first term. Also, the sum of the first 8 terms is twice the sum of the first 5 terms. Find the common difference.</p>
+<p>Here, we are given <span class="math inline">\(a = 3\)</span> and <span class="math inline">\(S_8 = 2S5\)</span>.<br />
+Thus,</p>
+<p><span class="math display">\[
+\begin{aligned}
+S_8 &amp;= 2S_5 \\
+\frac{8}{2}[2(3)+(8-1)d] &amp;= 2\bigg{[}\frac{5}{2}[2(3)+(5-1)d]\bigg{]} \\
+4[6+7d] &amp;= 5[6+4d] \\
+24+28d &amp;= 30+20d \\
+8d &amp;= 6 \\
+d &amp;= \frac{3}{4}
+\end{aligned}
+\]</span></p>
 <h2 id="geometric-sequence">Geometric sequence</h2>
 <h3 id="finding-the-nth-term-1">Finding the nth term</h3>
 <h3 id="finding-the-sum-of-the-first-n-terms-1">Finding the sum of the first n terms</h3>
 <h2 id="exercises">Exercises</h2>
+<ol type="1">
+<li><p>Find the sum of the first 23 terms of the AP <span class="math inline">\(4, −3, −10,...\)</span></p></li>
+<li><p>An arithmetic series has first term 4 and common difference <span class="math inline">\(\frac{1}{2}\)</span>. Find,</p>
+<ol type="i">
+<li><p>the sum of the first 20 terms,</p></li>
+<li><p>the sum of the first 100 terms.</p></li>
+</ol></li>
+<li><p>Find the sum of the arithmetic series with first term 1, common difference 3, and last term 100.</p></li>
+<li><p>The sum of the first 20 terms of an arithmetic series is identical to the sum of the first 22 terms. If the common difference is −2, find the first term.</p></li>
+</ol>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -1468,6 +1570,15 @@ function showDivs(n) {
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
@@ -1479,7 +1590,7 @@ function showDivs(n) {
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>© Copyright 2020 <a href="https://scmath.github.io">Department of Mathematical Sciences UiTM Kedah</a><br />
+<p>Copyright ©2020 <a href="https://scmath.github.io">Department of Mathematical Sciences UiTM Kedah</a><br />
 Software licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, v2.0</a></p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->

@@ -147,12 +147,16 @@ There are two methods to be considered in the interest calculation for installme
 2. Declining Balance Method - using Constant Ratio Formula  
 
 $$ 
+Original\ Balance\ Method\ \\
+\\
 I = Prt
 $$
 
 
 $$
-\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^N(x_i - \mu)^2}
+Declining\ Balance\ Method\ \\
+\\
+I = \frac{Br(n+1)}{2m}\ \ \ \ \ or\ \ \ \ \ r=\frac{2mI}{B(n+1)}
 $$
 
 Here, P stands for our fixed monthly payment, L stands for the cost of the item, r stands for the interest rate, and n the total number of payments. To use this formula, we plug in our values for L, r, and n to calculate our P.  

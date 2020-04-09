@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |![](images/anis_mardiana.jpg)|  
 |:-----:|
 | **Anis Mardiana Binti Ahmad** |    
-| Course Coordinator |    
+| Course Coordinator, Senior Lecturer |    
 | Management Mathematics |
 | anis513@kedah.uitm.edu.my |
 
@@ -68,7 +68,8 @@ a column separator -->
 |:-----:|
 | **Asmahani Binti Nayan** |    
 | Senior Lecturer |    
-| Applied Statistics |  
+| Statistics |  
+| asmahanin@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -83,6 +84,7 @@ a column separator -->
 | **Wan Hasni Sabariah Wan Hassan** |    
 | Senior Lecturer |    
 | Mathematics |  
+| hasni636@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -96,7 +98,8 @@ a column separator -->
 |:-----:|
 | **Noor Hafizah Zainal Aznam** |    
 | Senior Lecturer |   
-| Applied Mathematics |  
+| Mgmt. Mathematics |  
+| noorhafizah@uitm.edu.my |  
 :::
 
 ::::::  
@@ -108,7 +111,8 @@ a column separator -->
 |:-----:|
 | **'Amirah Hazwani Abdul Rahim** |    
 | Senior Lecturer |    
-| Applied Statistics |  
+| Statistics |  
+| amirah017@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -122,7 +126,8 @@ a column separator -->
 |:-----:|
 | **Ida Normaya Mohd Nasir** |    
 | Senior Lecturer |    
-| Applied Statistics |  
+| Statistics |  
+| normaya@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -136,7 +141,8 @@ a column separator -->
 |:-----:|
 | **Kartini Kasim** |    
 | Senior Lecturer |   
-| Applied Mathematics |  
+| Statistics |  
+| kartini2929@uitm.edu.my |  
 :::
 
 ::::::  
@@ -148,7 +154,8 @@ a column separator -->
 |:-----:|
 | **Norashikin Nasarudin** |    
 | Senior Lecturer |    
-| Applied Statistics |  
+| Statistics |  
+| norashikin116@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -162,7 +169,8 @@ a column separator -->
 |:-----:|
 | **Norin Rahayu Shamsuddin** |    
 | Senior Lecturer |    
-| Health Statistics |  
+| Epidemiology & Statistics |  
+| norinrahayu@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -176,7 +184,8 @@ a column separator -->
 |:-----:|
 | **Nurazlina Abdul Rashid** |    
 | Senior Lecturer |   
-| Applied Statistics |  
+| Statistics |  
+| azlina150@uitm.edu.my |  
 :::
 
 ::::::  
@@ -184,11 +193,12 @@ a column separator -->
 :::::: {style="display: flex; "}
 
 ::: {.column width="30%"}
-|![](images/siti_fairus.png){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|![](images/fazillah_bosli.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
 |:-----:|
-| **Siti Fairus Mokhtar** |    
+| **Fazillah Bosli** |    
 | Lecturer |   
-| Statistics |  
+| Mgmt. Mathematics |  
+| fazillah@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -198,11 +208,12 @@ a column separator -->
 :::
 
 ::: {.column width="30%"}
-|![](images/ab_razak.png)|  
+|![](images/siti_fairus.png){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
 |:-----:|
-| **Ab Razak Mansor** |    
-| Senior Lecturer |    
-| Physics |  
+| **Siti Fairus Mokhtar** |    
+| Lecturer |   
+| Statistics |  
+| fairus706@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -212,13 +223,56 @@ a column separator -->
 :::
 
 ::: {.column width="30%"}  
+|![](images/ab_razak.png)|  
+|:-----:|
+| **Ab Razak Mansor** |    
+| Senior Lecturer |    
+| Physics |  
+| arazman@uitm.edu.my |  
+:::
+
+::::::  
+
+:::::: {style="display: flex; "}
+
+::: {.column width="30%"}
 |![](images/profile2.png)|
 |:-----:|
 | **Kamarul Ariffin Mansor** |    
 | Senior Lecturer |    
 | Applied Statistics |  
+| ariff118@uitm.edu.my |
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}
+|![](images/male.png)|  
+|:-----:|
+| **Open Vacancy** |    
+| Position |    
+| Field |  
+| eMail |  
+:::
+
+::: {.column width="5%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="30%"}  
+|![](images/male.png)|  
+|:-----:|
+| **Open Vacancy** |    
+| Position |    
+| Field |  
+| eMail |  
 :::
 
 ::::::  
-
 Link to the [Official Staff Directory at UiTM Kedah](https://kedah.uitm.edu.my/v2/index.php/directory/academic-staff/74-mathematical-science-department)  

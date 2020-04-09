@@ -111,13 +111,126 @@ function showDivs(n) {
   
 ## Introduction to sequence  
 
-In general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequnce is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. Every sequence will have a starting value. In this chapter, students will be introduced to two type of sequence; **Arithmetic Sequence** and **Geometric Sequence**. For both types, students will be exposed on the concepts of the *n_th term* of a sequence and the *sum of the first n_th terms* of a sequence.  
+In general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequnce is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. In this chapter, students will be introduced to two type of sequence; **Arithmetic Sequence** and **Geometric Sequence**. For both types, students will be exposed on the concepts of the $n^{th}\ term$ of a sequence and the $sum\ of\ the\ first$ $n^{th}\ term$ of a sequence. Finally, students will be exposed on how to apply the concepts of arithmetic and geometric sequences to some common problems in daily life.  
+
+## What is a sequence?  
+Sequence can be defined as a set of numbers which are written in specific order or following a specific rule. For example,  
+$$
+\begin{aligned}
+&0,\ 2,\ 4,\ 6,\ 8,\ …  \\
+&1,\ 3,\ 9,\ 27,\ …  \\
+&17,\ 12,\ 7,\ 2,\ -3,\ -8,\ -13.
+\end{aligned}
+$$
+The three sets of numbers above are an example of sequence since between adjacent values, it follows certain order or rule.  
 
 ## Arithmetic sequence  
 
+Consider this sequence  
+
+<center> $5, 13, 21, 29,…$ </center>  
+
+It starts with a particular first term, and to get the next term, add a fixed value to the previous term. In the above set of values, we add 8 to get the next term. The difference between consecutive terms is a constant.  
+i.e.,  
+
+$$
+\begin{aligned}
+&5,\ 5 + 8,\ 5 + 8 + 8,\ 5 + 8 + 8 + 8,\ …  \\
+&5,\ 5 + 8,\ 5 + 2(8),\ 5 + 3(8),\ …  \\
+&5,\ 13,\ 21,\ 29,\ …  \\
+\end{aligned}
+$$
+
+*Definition*  
+An arithmetic progression is a sequence where each new term after the first is obtained by adding a constant $d$, called the common difference, to the preceding term. If the first term of the sequence is $a$ then the arithmetic progression is  
+
+<center>  
+$a, a + d, a + 2d, a + 3d,...$ 
+</center>  
+
+where the nth term is given by the formula  
+
+$$
+T_n = a + (n − 1)d  
+$$
+
 ### Finding the nth term  
+*Example 1*  
+Write down the first five terms of the Arithmetic Sequence with first term 8 and common difference 7. So, here we have $a = 8$ and $d = 7$.  
+Using the general formula of $n^{th}$ term,  
+$$
+\begin{aligned}
+T_n &= a + (n - 1)d \\
+T_1 &= a = 8 \\
+T_2 &= a + d = 8 + 7 = 15 \\
+T_3 &= a + 2d = 8 + 2(7) = 22 \\
+T_4 &= a + 3d = 8 + 3(7) = 29 \\
+T_5 &= a + 4d = 8 + 4(7) = 36 \\
+\end{aligned}
+$$  
+
+The sequence is $8, 15, 22, 29, 36,…$  
+
+*Example 2*  
+Write down the first five terms of the Arithmetic Sequence with first term 2 and common difference −5. So, here we have $a = 2$ and $d = -5$.  
+Using the general formula of $n^{th}$ term,  
+
+$$
+\begin{aligned}
+T_n &= a + (n - 1)d \\
+T_1 &= a = 2 \\
+T_2 &= a + d = 2 + (-5) = -3 \\
+T_3 &= a + 2d = 2 + 2(-5) = -8 \\
+T_4 &= a + 3d = 2 + 3(-5) = -13 \\
+T_5 &= a + 4d = 2 + 4(-5) = -18 \\
+\end{aligned}
+$$  
+
+The sequence is $2, -3, -8, -13, -18,…$  
 
 ### Finding the sum of the first n terms  
+
+The sum of the terms of an arithmetic progression gives an arithmetic series. If the starting value is $a$ and the common difference is $d$ then the sum of the first $n$ terms is given by,  
+
+$$
+S_n = \frac{n}{2}[2a + (n - 1)d]
+$$  
+
+*Example 3*  
+
+Find the sum of the first 50 terms of the sequence  
+
+<center>  
+$1, 3, 5, 7, 9,...$  
+</center>  
+
+Here, we have $a = 1$, $d = 2$, and $n = 50$. Use the formula $S_n = \frac{n}{2}[2a + (n - 1)d]$, we get  
+
+$$
+\begin{aligned}
+S_50 &= \frac{50}{2}[2(1) + (50-1)(2)] \\
+&= 25[2+49(2)] \\
+&= 25(100) \\
+&= 2,500 
+\end{aligned}
+$$  
+
+*Example 4*  
+An arithmetic progression has 3 as its first term. Also, the sum of the first 8 terms is twice the sum of the first 5 terms. Find the common difference.  
+
+Here, we are given $a = 3$ and $S_8 = 2S5$.  
+Thus,  
+
+$$
+\begin{aligned}
+S_8 &= 2S_5 \\
+\frac{8}{2}[2(3)+(8-1)d] &= 2\bigg{[}\frac{5}{2}[2(3)+(5-1)d]\bigg{]} \\
+4[6+7d] &= 5[6+4d] \\
+24+28d &= 30+20d \\
+8d &= 6 \\
+d &= \frac{3}{4}
+\end{aligned}
+$$  
 
 ## Geometric sequence  
 
@@ -126,3 +239,17 @@ In general, sequence is just simply a set of values that is written in such a wa
 ### Finding the sum of the first n terms  
 
 ## Exercises  
+
+1. Find the sum of the first 23 terms of the AP $4, −3, −10,...$  
+
+2. An arithmetic series has first term 4 and common difference $\frac{1}{2}$. Find,  
+
+    i. the sum of the first 20 terms,  
+  
+    ii. the sum of the first 100 terms.  
+
+3. Find the sum of the arithmetic series with first term 1, common difference 3, and last term 100.  
+
+4. The sum of the first 20 terms of an arithmetic series is identical to the sum of the first 22 terms. If the common difference is −2, find the first term.  
+
+
