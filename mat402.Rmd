@@ -1,0 +1,125 @@
+---
+title: "Business Mathematics MAT402"
+output: 
+  distill::distill_article:
+    self_contained: true
+---  
+
+# Course Information  
+
+### *Course Learning Outcomes*  
+At the end of the course, students should be able to:  
+
+1. Describe the concepts and mathematical terms encountered in business, finance, investment and income tax assessment. ( C2 )  
+
+2. Solve basic mathematical problems in the specific area of business, finance, investment and income tax assessment. ( C3 )  
+
+3. Evaluate the combination of concepts and mathematical terms involved in financing business, providing loan, installment purchase, trading or retailing. ( C6 )  
+
+
+### *Course Description*  
+The course is primarily designed to develop the mathematical knowledge needed by the students to meet the demands of business operation. It is to provide a solid coverage of the most basic and frequently occurring business situations.  
+
+
+### *Syllabus Content*  
+
+1. Sequence  
+    - Introduction to sequence  
+    - Arithmetic sequence  
+    - Finding the nth term and the sum of the first n terms  
+    - Geometric sequence  
+    - Finding the nth term and the sum of the first n terms  
+  
+2. Simple Interest  
+    - Introduction to interest  
+    - Basic Islamic banking concept  
+    - Comparison between conventional and Islamic banking  
+    - Simple interest formula  
+    - Simple amount formula  
+    - Exact time and approximate time  
+    - Ordinary simple interest and exact simple interest  
+    - Banker’s Rule  
+    - Present Value  
+  
+3. Bank Discount and Promissory Notes  
+    - Introduction to bank discount  
+    - Introduction to promissory note  
+    - Simple interest rate equivalent to bank discount rate  
+  
+4. Compound Interest  
+    - Time value of money  
+    - Introduction to compound interest  
+    - Important terms use in compound interest  
+    - Compound interest formula  
+    - Present Value  
+  
+5. Annuity  
+    - Introduction to annuity and types of annuities  
+    - Future value of ordinary annuity certain  
+    - Present value of ordinary annuity certain  
+    - Solving for R and n  
+  
+6. Installment Purchase  
+    - Introduction to installment purchase  
+    - Interest based on original balance  
+    - Interest based on reducing balance – constant ratio formula  
+    - Unpaid principal balance using Rule of 78  
+  
+7. Trade and Cash Discounts  
+    - Introduction to trade discount  
+    - Net price formula  
+    - Chain discount  
+    - Single discount equivalent to chain discount  
+    - Cash discount  
+  
+8. Mathematics of Retailing  
+    - Cost, selling price, profit, loss  
+    - Mark up and mark down  
+    - Profit and loss: Gross profit, net profit and breakeven price  
+    - Trade discount & Mathematics of retailing  
+  
+9. Depreciation  
+    - Introduction to depreciation  
+    - Straight line method  
+    - Declining balance method  
+  
+10. Personal Income Tax  
+    - Introduction to Income tax  
+    - Deductions allowed  
+    - Taxable income  
+    - Rebates  
+    - Tax rate schedule  
+    - Tax assessment for individual who is single  
+    - Tax assessment for individual who is married – separate and combine assessment  
+  
+  
+### *Transferable Skills*  
+
+- Demonstrate ability to identify and articulate self skills, knowledge and understanding confidently and in a variety of contexts. -Demonstrate ability to investigate problems and provide effective solutions.  
+
+- Demonstrate ability to analyse issues/problems from multiple angles and make suggestions.  
+
+### *Course Assessment*  
+
+Final examination – One 3-hour paper	: 60%  
+Course Work (Continuous assessments) 	: 40%  
+  - Test (3) : 30%  
+  - Quizzes (3) : 6%  
+  - Assignments (2) : 4%  
+    
+    
+### *Recommended Text*  
+1. Lau Too Kya,Phang Yook Ngor,Wee Kok Kiang, Business Mathematics for UiTM, 4rd, Oxford Fajar Sdn. Bhd, 2012, ISBN: 9789676571601  
+
+
+### *References*  
+1. Paul Lau Ngee Kiong, Business Mathematics, UiTM Press, 2013, ISBN: 9789673634446  
+2. Gary Clendenen,Stanley A. Salzman, Business Mathematics, 13th, Pearson College Division, 2014, ISBN:
+9780321955050  
+3. James Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: 9781111821326  
+4. Eugene Don,Joel Lerner, Schaum's Outline of Basic Business Mathematics, 2ed, 2nd, McGraw-Hill, 2009, ISBN:9780071611589  
+
+
+
+
+*** 

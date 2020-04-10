@@ -196,7 +196,7 @@ a column separator -->
 |![](images/fazillah_bosli.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
 |:-----:|
 | **Fazillah Bosli** |    
-| Lecturer |   
+| Senior Lecturer |   
 | Mgmt. Mathematics |  
 | fazillah@uitm.edu.my |  
 :::
@@ -211,7 +211,7 @@ a column separator -->
 |![](images/siti_fairus.png){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
 |:-----:|
 | **Siti Fairus Mokhtar** |    
-| Lecturer |   
+| Senior Lecturer |   
 | Statistics |  
 | fairus706@uitm.edu.my |  
 :::
@@ -240,7 +240,7 @@ a column separator -->
 |:-----:|
 | **Kamarul Ariffin Mansor** |    
 | Senior Lecturer |    
-| Applied Statistics |  
+| Mathematics |  
 | ariff118@uitm.edu.my |
 :::
 

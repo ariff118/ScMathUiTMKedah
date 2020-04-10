@@ -1,7 +1,5 @@
 ---
 title: "Group Project Guidelines"
-description: |
-  Welcome.
 author: 
   - name: "Kamarul Ariffin Mansor"
     url: https://my.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
@@ -40,6 +38,7 @@ Students are required to perform a group with 3 – 4 members. (The number of me
 
 ### 2. SOURCE OF DATA  
 Students are allowed to use primary / secondary data. There is no restricted on the number of sample size.  
+
 ### 3. COVER PAGE:  
 Cover page should include UiTM logo, report title, name, student number and group.  
 

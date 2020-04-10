@@ -11,8 +11,11 @@ output:
 ### *Course Learning Outcomes*  
 
 At the end of the course, students should be able to:  
+
 - Explain the concept, the use and the application of basic statistical tools in descriptive and inferential statistics. (C2)  
+
 - Determine appropriate statistical solution and interpreting the real world problem. (C5)  
+
 - Propose the use of descriptive statistics in the area of computing. (A3)  
 
 ### *Course Description*  

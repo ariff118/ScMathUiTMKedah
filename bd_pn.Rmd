@@ -1,7 +1,5 @@
 ---
 title: "Bank Discount and Promissory Note"
-description: |
-  Welcome to the MAT112 BUsiness Mathematics Courseweb. In this post I have provided a short notes on bank discount and promissory note chapter. This will help the students to learn the topic under each section at ease. The content of each section has been designed in such a way that it is easy for students to follow the materials covered at your own pace. Each section will start with an introductory short video on the topic, then followed with a slideshow presentations and short notes with solved examples. Finally students will end the learning process by solving the exercises on their own. I hope you enjoy it!
 author: 
   - name: "Kamarul Ariffin Mansor"
     url: https://my.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
@@ -115,7 +113,7 @@ Meet Chris. He is your loan officer. The bank where he works is willing to loan 
 What Chris does is to write up a promissory note for you. This note is a promise of payment. Once you sign this note, you agree to pay back the money along with any additional fees involved by a specific date.  
   
 <aside style="font-style:italic; color:blue; float:right" align="center">  
-In China during the Han Dynasty promissory notes appeared in 118 BC and were made of leather.[14] The Romans may have used promissory notes in 57 AD as a durable lightweight substance as evidence of a promise in that time have been found in London.[15][16][*... read more at wikipedia*](https://en.m.wikipedia.org/wiki/Promissory_note)
+In China during the Han Dynasty promissory notes appeared in 118 BC and were made of leather.[14] The Romans may have used promissory notes in 57 AD as a durable lightweight substance as evidence of a promise in that time have been found in London [*... read more at wikipedia*](https://en.m.wikipedia.org/wiki/Promissory_note)
 </aside>  
 
 ### Terms  
@@ -207,7 +205,55 @@ iv.	Find the face value of the note if the interest rate is 6.5%.
 **iii. 40 days**  
 **iv. RM2482.07**  
 </aside>  
+
 ***  
+*Question 5*  
+On 16 March 2009, Samy received a 120-day promissory note with simple interest rate of 11% per annum. On 12 May 2009, he discounted the note at a discount rate of 10% and received proceeds of RM2,978.86. Find the:  
+i. maturity date **(14th July 2009)**  
+ii. maturity value **(RM3031.92)**  
+iii. value of bank discount **(RM53.06)**  
+iv. face value. **(RM2924.68)**  
+
+***  
+*Question 6*  
+Fahrin received a 100-day promissory note on 17th June 2008 with simple interest rate of 5% per annum. After 40 days, he discounted the note at a discount rate of 3% and received proceeds of RM12,188.75. Find:  
+i. the maturity date. **(25th September 2008)**  
+ii. the maturity value. **(RM12250)**  
+iii. the face value. **(RM12082.19)**  
+iv. the amount of interest received by Fahrin. **(RM106.56)**  
+
+***  
+*Question 7*  
+A 5-month promissory note with an interest rate of 10% would mature on 25th September 2008 with a maturity value of RM4200. The note was discounted 2 months before the maturity date and the proceeds received was RM4151. Find:  
+i. the face value. **(RM4032)**  
+ii. the discount amount charged. **(RM49)**  
+iii. the discount rate charged. **(7%)**  
+iv. the simple interest rate that is equivalent to the discount rate in (iii). **(7.08%)**  
+
+***  
+*Question 8*  
+Aznil received a 150-day promissory note with a face value of RM10,000 dated 5 January 2007. The maturity value was RM10,375. He later discounted the note on 30 April 2007 at a discount rate of 7.6%. Find:  
+i. the maturity date of the note. **(4th June 2007)**  
+ii. the interest rate of the note. **(9%)**  
+iii. the proceeds received. **(RM10298.34)**  
+
+***  
+*Question 9*  
+Manja Enterprise received a 5-month promissory note valued at RM10000 with an interest rate of X%. The note matures on 6 October 2007 with a maturity value of RM 10237.50. On 11th August 2007 Manja Enterprise discounted the note at a bank at the rate of 7%. Find:  
+i. the date of the note **(6th May 2007) **  
+ii. the interest rate X% **(5.7%)**  
+iii. the discount term **(56 days)**  
+iv. the proceeds received. **(RM10126.03)**  
+
+***  
+*Question 10*  
+Ziman received a 100-day promissory note for RM5,000 dated 10th September 2005.The simple interest charged was 6.5%. He later discounted the note on 30th October 2005 and received proceeds of RM5030.19. Find:  
+i. the maturity date of the note **(19th December 2005)**  
+ii. the maturity value of the note **(RM5090.28)**  
+iii. the discount rate. **(8.50%)**  
+
+
+
 
 
 ## Acknowledgments {.appendix}

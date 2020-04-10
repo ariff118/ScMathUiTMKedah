@@ -1,5 +1,5 @@
 ---
-title: "Business Mathematics MAT11"
+title: "Mathematics with Business Applications MAT111"
 description: |
   Welcome to the MAT111 BUsiness Mathematics Courseweb. I hope you enjoy it!
 output: 
@@ -8,7 +8,7 @@ output:
 ---
 
 # Course Information    
-### *Course Learning Outcomes*
+### *Course Learning Outcomes*  
 At the end of the course, students should be able to:  
 1. Solve basic mathematical problems. ( C3 A1 P2 )  
 2. Apply mathematical concepts to solve mathematical problems in finance and banking. ( C4 A1 P2 )  
@@ -16,8 +16,7 @@ At the end of the course, students should be able to:
   
    
 ### *Course Description*
-The course is primarily designed to strengthen the fundamental concepts of mathematics with emphasis on business
-application and problem solving.  
+The course is primarily designed to strengthen the fundamental concepts of mathematics with emphasis on business application and problem solving.  
   
   
 ### *Syllabus Content*  
@@ -47,6 +46,10 @@ application and problem solving.
     b. Gross profit, net profit and break even price  
   
   
+### *Recomenmended Text*  
+1. Paul Lau Ngee Kiong, Business Mathematics, UiTM Press, 2013, ISBN: 9789673634446  
+
+
 ### *References*  
 1. Lau Too Kya, Phang Yook Ngor and Wee Kok Kiang, Business Mathematics for UiTM, 4th, Oxford Fajar Sdn. Bhd., ISBN: 9789676571601.  
 2. James Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: 1111821321.  
@@ -57,7 +60,7 @@ application and problem solving.
 ### *Course Assessment*  
 Final examination – One 3-hour paper	: 60%  
 Course Work (Continuous assessments) 	: 40%  
-    - Test (3)	    : 30%  
-    - Quizzes (4) 	: 10%  
+  - Test (3)	    : 30%  
+  - Quizzes (4) 	: 10%  
 
 ***  

@@ -1,5 +1,5 @@
 name: "scmathkdh_online"
-title: "Sc Math Kedah Online Classroom"
+title: "Math. Sc. Kedah Webnotes"
 description: |
   Sc Math UiTM Kedah Online Classroom
 output_dir: "docs"
@@ -18,9 +18,12 @@ navbar:
           href: mat111.html
         - text: "MAT112"
           href: mat112.html
+        - text: "MAT402"
+          href: mat402.html
         - text: "QMT181/STA104"
           href: qmt181.html
     - text: "MAT112/MAT402"
+      icon: fa-laptop fa-lg
       menu:
         - text: "Chapter 1 - Sequence"
           href: sequence.html
@@ -41,7 +44,7 @@ navbar:
         - text: "Chapter 9 - Depreciation"
           href: depreciation.html
         - text: "Chapter 10 - Income Tax"
-          href: income_tax.html
+          href: income.html
     - text: "QMT181/STA104"
       menu:
         - text: "Scheme of Work"

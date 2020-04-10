@@ -1,0 +1,30 @@
+---
+title: "Upcoming events"
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+<!-- http://stackoverflow.com/questions/11122249/scale-iframe-css-width-100-like-an-image -->  
+  
+<div class="h_iframe">  
+  
+<!-- a transparent image is preferable -->  
+  
+<img class="ratio" src="images/logo_uitm.png">  
+  
+<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FKuala_Lumpur&amp;src=ZGVwdG1hdGhzY0BnbWFpbC5jb20&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4ubWFsYXlzaWEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>  
+  
+</div>  
+  
+You can add this calendar to your own by clicking the button at the bottom-right of this calendar.  
+
+If you don't use Google Calendar, copy this link:  
+
+> https://calendar.google.com/calendar/ical/deptmathsc%40gmail.com/public/basic.ics  
+
+and for example,   
+
+- in Framagenda: use the "New Subscription" button and paste the previous link.  
+
+- in Thunderbird: "File" -> "New" -> "Calendar" -> "On the Network" -> "iCalendar(ICS)" -> paste.  
