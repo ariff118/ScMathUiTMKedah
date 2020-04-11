@@ -26,7 +26,7 @@ Aamiin Ya Rabbal'alamiin
 <html>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="w3.css">
 <style>
   .mySlides {display:none}
 </style>
@@ -37,21 +37,33 @@ Aamiin Ya Rabbal'alamiin
   <p>Students can use these slides presentation to understand the content of this chapter</p>
 </div>
 <div class="w3-content" style="max-width:800px">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide1.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide2.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide3.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide4.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide5.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide6.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide7.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide8.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide9.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide10.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide11.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide12.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide13.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide14.png" style="width:100%">
-  <img class="mySlides" src="images\Sequence\ASequence\Slide15.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide1.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide2.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide3.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide4.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide5.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide6.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide7.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide8.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide9.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide10.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide11.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide12.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide13.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide14.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide15.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide16.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide17.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide18.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide19.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide20.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide21.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide22.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide23.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide24.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide25.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide26.png" style="width:100%">
+  <img class="mySlides" src="images\sequence\Slide27.png" style="width:100%">
 </div>
 <div class="w3-center">
   <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button>
@@ -73,6 +85,18 @@ Aamiin Ya Rabbal'alamiin
   <button class="w3-button demo" onclick="currentDiv(13)">13</button> 
   <button class="w3-button demo" onclick="currentDiv(14)">14</button> 
   <button class="w3-button demo" onclick="currentDiv(15)">15</button>
+  <button class="w3-button demo" onclick="currentDiv(16)">16</button> 
+  <button class="w3-button demo" onclick="currentDiv(17)">17</button>
+  <button class="w3-button demo" onclick="currentDiv(18)">18</button>
+  <button class="w3-button demo" onclick="currentDiv(19)">19</button> 
+  <button class="w3-button demo" onclick="currentDiv(20)">20</button>
+  <button class="w3-button demo" onclick="currentDiv(21)">21</button> 
+  <button class="w3-button demo" onclick="currentDiv(22)">22</button> 
+  <button class="w3-button demo" onclick="currentDiv(23)">23</button>
+  <button class="w3-button demo" onclick="currentDiv(24)">24</button>
+  <button class="w3-button demo" onclick="currentDiv(25)">25</button> 
+  <button class="w3-button demo" onclick="currentDiv(26)">26</button> 
+  <button class="w3-button demo" onclick="currentDiv(27)">27</button>
 </div>
   
 <script>
@@ -106,10 +130,15 @@ function showDivs(n) {
   
 </body>
 </html>
-  
+
+<aside>  
+[Download Learning Slides](files/slides/sequence.pdf)
+</aside>  
+
+
 ## Introduction to sequence  
 
-In general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequnce is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. In this chapter, students will be introduced to two type of sequence; **Arithmetic Sequence** and **Geometric Sequence**. For both types, students will be exposed on the concepts of the $n^{th}\ term$ of a sequence and the $sum\ of\ the\ first$ $n^{th}\ term$ of a sequence. Finally, students will be exposed on how to apply the concepts of arithmetic and geometric sequences to some common problems in daily life.  
+In general, sequence is just simply a set of values that is written in such a way the values follows certain specific order or rule. A sequence can either be a finite set of numbers or an infinite set of numbers. A sequence is said to be infinite if there exist no end values and the numbers can continues infinitely. On the other hand, a finite is such that the set of numbers has and end value or stop at certain length. In this chapter, students will be introduced to two type of sequence; **Arithmetic Sequence** and **Geometric Sequence**. For both types, students will be exposed on the concepts of the $n^{th}\ term$ of a sequence and the $sum\ of\ the\ first$ $n^{th}\ term$ of a sequence. Finally, students will be exposed on how to apply the concepts of arithmetic and geometric sequences to some common problems in daily life.  
 
 ## What is a sequence?  
 Sequence can be defined as a set of numbers which are written in specific order or following a specific rule. For example,  
@@ -231,10 +260,27 @@ d &= \frac{3}{4}
 $$  
 
 ## Geometric sequence  
+A geometric progression, or GP, is a sequence where each new term after the first is obtained by multiplying the preceding term by a constant $r$, called the *common ratio*. 
 
 ### Finding the nth term  
 
+If the first term of the sequence is $a$ then the geometric progression is  
+
+<center>a, ar, ar2, ar3, ...</center>  
+
+where the n-th term is given by  
+$$T_n\ =\ ar^{n-1}$$  
+
 ### Finding the sum of the first n terms  
+The sum of the terms of a geometric progression gives a geometric series. If the starting value is $a$ and the common ratio is $r$ then the sum of the first $n$ terms is  
+$$
+\begin{aligned}
+S_n\ &=\ a\bigg(\ \frac{r^n\ -\ 1}{r\ -\ 1}\ \bigg)\ \ \ where\ r\ >\ 1 \\
+\\
+S_n\ &=\ a\bigg(\ \frac{1\ -\ r^n}{1\ -\ r}\ \bigg)\ \ \ where\ r\ <\ 1 \\
+\end{aligned}
+$$  
+
 
 ## Exercises  
 
@@ -249,5 +295,45 @@ $$
 3. Find the sum of the arithmetic series with first term 1, common difference 3, and last term 100.  
 
 4. The sum of the first 20 terms of an arithmetic series is identical to the sum of the first 22 terms. If the common difference is −2, find the first term.  
+
+5. Write down the first five terms of the geometric progression which has first term 1 and common ratio 12.  
+
+6. Find the 10th and 20th terms of the GP with first term 3 and common ratio 2.  
+
+7. Find the 7th term of the GP 2, −6, 18, ...,  
+
+8. Find the sum of the first five terms of the GP with first term 3 and common ratio 2.  
+
+9. Find the sum of the first 20 terms of the GP with first term 3 and common ratio 1.5.  
+
+10. The sum of the first 3 terms of a geometric series is $\frac{37}{8}$. The sum of the first six terms is $\frac{3367}{512}$. Find the first term and common ratio.  
+
+11. How many terms in the GP 4, 3.6, 3.24, ... are needed so that the sum exceeds 35?  
+
+<font color="red">**Past Semester Exam Questions**</font>  
+
+*MAC 2015*  
+The 4th term of a geometric sequence is -96 and the 9th term is -3. Find:  
+a. the common ratio and the first term  
+b. the sum of the first five terms.  
+
+*SEPT 2014*  
+a. Given a sequence: 10, 30, 90, 270, 810, 2430....., find the sum of the first 10 terms  
+
+b. The fourth term of an arithmetic sequence is less than the fifth term by 3. The seventh term is three times the fifth term. Find  
+    i. the common difference and the first term  
+    ii. the sum of the first 12 terms  
+  
+*MAC 2014*  
+a. Determine the number of terms for the following sequence:  
+
+<center>71, 65, 59, …, -13</center>  
+
+
+b. The fifth term of a geometric sequence is 504 and the first term is 8064. Determine the common ratio and the sum of the first ten terms of the sequence. Assume that the common ratio is positive.  
+
+
+
+
 
 

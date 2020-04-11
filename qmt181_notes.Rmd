@@ -1,0 +1,199 @@
+---
+title: "QMT181/STA104 Webnotes"
+author: 
+  - name: "Kamarul Ariffin Mansor"
+    url: https://my.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+    affiliation: Universiti Teknologi MARA
+    affiliation_url: https://kedah.uitm.edu.my/v2/index.php
+date: 4-12-2020
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction to Statistics  
+
+By the end of this topic, you should be able to:  
+
+:::::: {style="display:flex; "}  
+
+::: {.column width="30%"}  
+**Subtopics**  
+:::  
+
+::: {.column width="5%"}  
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="65%"}  
+**Objectives**  
+:::  
+
+::::::   
+
+:::::: {style="display:flex; "}  
+
+::: {.column width="30%"}  
+Introduction to statistics  
+:::  
+
+::: {.column width="5%"}  
+\   
+<!-- an empty Div (with a whitespace), serving as  
+a column separator -->  
+:::  
+
+::: {.column width="65%"}  
+- Understand why people study statistics   
+- Distinguish between descriptive and inferential statistics  
+- Distinguish between qualitative variable and quantitative variable  
+:::  
+
+::::::  
+
+:::::: {style="display:flex; "}  
+
+::: {.column width="30%"}  
+Statistical terms  
+:::  
+
+::: {.column width="5%"}  
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="65%"}  
+- Understand some statistical terms  
+:::  
+
+::::::  
+
+:::::: {style="display:flex; "}  
+
+::: {.column width="30%"}  
+Methods of data collection   
+:::  
+
+::: {.column width="5%"}  
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="65%"}  
+- Distinguish among nominal, ordinal, interval and ratio  
+- Distinguish between primary data and secondary data  
+- Understand various of data collection methods  
+:::  
+
+::::::  
+
+:::::: {style="display:flex; "}  
+
+::: {.column width="30%"}  
+Statistical terms  
+:::  
+
+::: {.column width="5%"}  
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="65%"}  
+- Understand some statistical terms  
+:::  
+
+::::::  
+
+:::::: {style="display:flex; "}  
+
+::: {.column width="30%"}  
+Sampling Techniques  
+:::  
+
+::: {.column width="5%"}  
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::  
+
+::: {.column width="65%"}  
+- Distinguish some of the sampling techniques : Random and Non-Random Sampling  
+:::  
+
+::::::  
+
+
+## Definition of Statistics:
+
+> Method of collecting, organizing, summarizing, presenting, analyzing and interpreting  data (information) in a convenient and informative way to assist in making more effective decisions.
+
+Statistics can be categorized as descriptive statistics and inferential/inductive statistics.  
+
+- Descriptive Statistics is designed to describe, without going any further; that is without attempting to infer or conclude anything that goes beyond the data themselves.  
+  
+- Inferential Statistics is a method used to determine something about a population, based on sample.
+
+
+## Statistical terms  
+i. *Research Survey* – A study done using statistical methods in order to understand certain problem.  
+ii. *Element* – Respondent/object on which data is taken.  
+iii. *Population* – All elements under study either living or non-living object.  
+iv.	*Sample* – Subset or part of population.  
+v. *Sampling frame* – A complete list of all elements in a population.  
+vi.	*Pilot survey* – A study done on a small scale before the actual survey.  
+vii. *Census* – A study done on the entire population.  
+viii. *Parameters* – a summary measure/characteristics obtained from population  
+ix.	*Statistics* – a summary measure/characteristics obtained from sample  
+x. *Variable/Attribute* – Characteristics of the population under study.  
+
+## Two types of variable:  
+1. Qualitative variable – measured according to their specific categories 
+or characteristics. Example: gender (male, female), marital status (single, married), race (Malay, Indian, Chinese), grade (A, B, C)  
+2. Quantitative variable – when the variable studied comes in term of numbers (numerical value) Example: number of student, total income, distance traveled, test mark etc.  
+Quantitative variable can further be classified as:  
+  
+    a.	Discrete – assume only exact values  
+        - Example: no. of student, annual sales, total income, shoe size, etc.  
+
+    b.	Continuous – can be expressed in a certain degree of accuracy  
+        - Example: Distance traveled litters of petrol, weight and height of children, etc.  
+
+<font color="blue">**Example:**</font>    
+Consider a population of 120,000 students in Terengganu. It was found that the mean height of the student is 148 cm and the variance is 1.5 cm . It also found that the mean height of 1,500 students in Dungun High School is 152 cm and the variance is 2 cm.  
+
+<center>  
+    Population – 120, 000 students in Terengganu  
+    Sample – 1,500 students in Dungun High School  
+    Element – student   
+    Variable – height of students  
+    
+</center>  
+
+## Parameter vs Statistic  
+
+> Parameter is a numerical measure used to describe a population.  
+
+> Statistic is a numerical measure used to describe a sample.  
+
+Below are some examples of parameter and statistic based on the information in the previous example.  
+
+|Parameter:|Statistics:|  
+|----------|-----------|  
+|i.	Population Size, N = 120,000|i.    Sample Size, n = 1,500|  
+|ii.	Mean, $\mu$ = 148 cm|ii.    Mean, $\bar{x}$ = 152 cm|  
+|iii.	Variance, $\sigma^2$ = 1.5 cm|iii.   Variance, $s^2$ = 2 cm|  
+
+
+
+
+

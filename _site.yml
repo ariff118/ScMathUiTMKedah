@@ -23,7 +23,7 @@ navbar:
         - text: "QMT181/STA104"
           href: qmt181.html
     - text: "MAT112/MAT402"
-      icon: fa-laptop fa-lg
+      icon: fa fa-laptop
       menu:
         - text: "Chapter 1 - Sequence"
           href: sequence.html
@@ -51,6 +51,8 @@ navbar:
           href: sow_qmt181.html
         - text: "Group Project"
           href: project_qmt181.html
+        - text: "Class Notes"
+          href: qmt181_notes.html
     - text: "About Us"
       href: about.html
   right:
@@ -62,6 +64,8 @@ navbar:
       href: https://www.facebook.com/kamarul.ariffin.9235
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+    - icon: fa-calendar
+      href: calendar.html
     - text: "Contributors"
       href: contributors.html
 output: 
@@ -70,4 +74,5 @@ output:
     toc_depth: 3
     number_sections: true
     self_contained: true
+    
   
