@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Word of wisdoms ...  
+>   
 
 <html>
 <title>W3.CSS</title>
@@ -32,8 +32,6 @@ knitr::opts_chunk$set(echo = FALSE)
   
 <div class="w3-container">
   <h2>Learning Slides</h2>
-  <p>Students can use these slides presentation to understand the content of this chapter</p>
-</div>
 <div class="w3-content" style="max-width:800px">
   <img class="mySlides" src="images\compound\Slide1.png" style="width:100%">
   <img class="mySlides" src="images\compound\Slide2.png" style="width:100%">

@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Words of wisdom ...  
+>   
   
 ## Learning Outcomes  
 
@@ -43,7 +43,6 @@ By the end of this chapter, student should be able to
   
 <div class="w3-container">
   <h2>Learning Slides</h2>
-  <p>Students can use these slides presentation to understand the content of this chapter</p>
 </div>
   
 <div class="w3-content" style="max-width:800px">
