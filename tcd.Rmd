@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Words of wisdoms  
+> Words of wisdom  
 
 <html>
 <title>W3.CSS</title>
@@ -138,8 +138,6 @@ function showDivs(n) {
 </aside>  
   
 # Trade and Cash Discount  
-
-> After watching this video lesson, you will understand some of the key terms that companies use on the invoices that they send to you. Learn how to pay your invoices according to these terms so you aren't late.  
 
 ### The Due Date  
 So, you made a purchase from this Internet company. You bought several pairs of shoes and this really nice jacket to go with the shoes. The reason you purchased from this company is that they said you didn't have to pay right away. They would send you an invoice, a bill, later on with how much you owe and the terms of payment. You wait about a week, and you receive your shoes and jacket. They look and fit wonderfully! A few days later, you receive the invoice from this company. The invoice is dated August 12 of this year.  

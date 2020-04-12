@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Ya Allah! Kami memohon kepadaMu Ya Allah, berilah kami iman yang sempurna, ilmu yang memberi manfaat, rezeki yang halal, anak yang soleh dan solehah, rumahtangga yang bahagia, usia yang berkat, doa yang mustajab, hajat yang tertunai, kesihatan yang berterusan, hutang yang terbayar, keselamatan dan kesejahteraan di dunia dan akhirat.
+> Ya Allah! Ampunilah dosa kami, dosa kedua ibubapa kami, dosa para pendidik dan murabbi yang telah membimbing kami ke jalan yang Kau redhai.  
 Aamiin Ya Rabbal'alamiin  
 
 <html>
@@ -116,23 +116,78 @@ function showDivs(n) {
 </aside>  
  
 ## Background  
-When we talk about interest, it can be in two scenarios whether you earned money from the certain amount of money you invested or you paid money for a certaim ampount of money you borrowed. Thus, interest can be defined as either money earned or paid from investment or loan amount made, respectively.  
+When we talk about interest, it can be in two scenarios whether you earned money from the certain amount of money you invested or you paid money for a certain amount of money you borrowed. Thus, interest can be defined as either money earned or paid from investment or loan amount made, respectively.  
+
+Simple interest is the interest due at the end of a term. In simple interest transaction, only the principal (original value) will earn the interest. The principal can be the amount of money deposited in an account or the amount of money borrowed.  
+
+The amount of interest due at the end of a term depends on the principal, the length of the term and the rate of interest. The rate is usually given in percent and often as annual rate. The time is usually measured in years or a fraction of a year.  
 
 ### Simple interest formula  
 
-<aside>
-![](images/Simple Interest/image1.png){width="150%" height="150%"}
-</aside>  
+The formula to find the interest $(I)$ due at interest rate $r\%$ for a principal $P$ for a length of $t$ years is  
+
+$$
+I\ =\ Prt
+$$  
+
+In calculation, $r\%$ is converted to decimal number. For example, if the interest rate is 5%, then we will substitute $r$ with $0.05$.   
 
 ### Simple amount formula  
+The future value $(S)$ is the total amount received or due at the end of the term. This is sometimes called as the simple amount.  
 
-## Four Basics Concepts of Interest
+To find the simple amount $S$, the following formula can be used.  
+
+$$  
+\begin{aligned}
+S\ &=\ P\ +\ I \\
+&=\ P\ +\ Prt \\
+
+Thus,\ \\
+S\ &=\ P(1\ +\ rt)
+\end{aligned}
+$$  
+
+
+**Note:** The value $t$ in both formula above must be in years. Hence, for any period given not in years, it must be converted into years. For example, if the period is in months, then $t\ =\ \frac{number\ of\ month}{12}$.  
+
+## Four Basics Concepts of Interest  
+
+Sometimes the duration or term period is given in the form of the time between one date to another. For example, certain amount of money was invested in a mutual fund on $3^{rd}\ January,\ 2020$ will mature on the $28^{th}\ April,\ 2020$. Thus, there are ways to calculate the $t$ value based on the for concepts mentioned below.  
 
 ### Exact time and approximate time  
 
+> When dates are given, the number of days between the two dates is calculated in two ways. Those two ways are exact time and approximate time.  
+
+**Exact time**, as the name suggested, is the exact number of days as in the calendar between two dates given.  
+
+**Approximate time** is found by assuming each month is 30 days flat.  
+
 ### Ordinary simple interest and exact simple interest  
+
+> There are two ways in which interest is calculated, namely the exact simple interest and the ordinary simple interest.  
+
+**Exact interest** is calculated based on 365 days a year, and for a leap year, using 366 days.  
+
+**Ordinary interest** is calculated using a 360 days a year. It is using an approximation that each month having 30 days. This is to simplify computing and of course it increases the amount of interest due to the lender.  
 
 ### Banker’s Rule  
 
-## Ecercises  
+Of the four ways to compute simple interest, the most popular is that of ordinary interest for the exact number of days. Being the common practice of the bank, it is popularly known as the **Banker’s Rule**. Of the four methods, this yields the maximum interest in any transaction.  
+
+$$
+Banker's\ Rule\ =\ \frac{Exact\ Time}{360}
+$$  
+
+**NOTE:** Unless otherwise stated, we will use the Banker’s Rule in computing interest problems from here onwards.  
+
+## Exercises  
+
+
+## Acknowledgement {.appendix}  
+Business Mathematics Manual.  
+*Writers:* Kor Liew Kee, Muhamad Fuad Abdullah, Rosidah Ahmad, Wan Hasni Sabariah Wan Hassan, Wan Siti Esah Che Hussain, Wan Zulkipli Wan Salleh  
+*Editor:* Kamarul Ariffin Mansor  
+*Publisher:* Department of Mathematical Sciences, UiTM Kedah  
+
+
 

@@ -1381,10 +1381,12 @@ QMT181/STA104
 <h3 class="d-toc-header">Table of Contents</h3>
 <nav class="d-toc" id="TOC">
 <ul>
-<li><a href="#promissory-note">Promissory Note</a><ul>
+<li><a href="#learning-outcomes">Learning Outcomes</a></li>
+<li><a href="#promissory-note">Promissory Note</a></li>
+<li><a href="#how-does-it-work">How does it work?</a><ul>
 <li><a href="#terms">Terms</a></li>
-<li><a href="#calculations">Calculations</a></li>
 </ul></li>
+<li><a href="#features-of-promissory-note">Features of Promissory Note</a></li>
 <li><a href="#bank-discount">Bank Discount</a></li>
 <li><a href="#practice-questions">Practice Questions</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -1392,8 +1394,23 @@ QMT181/STA104
 </nav>
 <hr class="d-toc-separator"/>
 <blockquote>
-<p>Words of wisdoms …</p>
+<p>Words of wisdom …</p>
 </blockquote>
+<h2 id="learning-outcomes">Learning Outcomes</h2>
+<p>By the end of this chapter, student should be able to</p>
+<ul>
+<li>explain the meaning of a promissory note,<br />
+</li>
+<li>list the main features of a promissory note,<br />
+</li>
+<li>compute the face and maturity values of a promissory note,<br />
+</li>
+<li>explain the meaning of bank discount,<br />
+</li>
+<li>compute the bank discount and proceeds, and<br />
+</li>
+<li>compute simple interest rate that is equivalent to discount rate.</li>
+</ul>
 <html>
 <title>
 W3.CSS
@@ -1413,7 +1430,7 @@ Students can use these slides presentation to understand the content of this cha
 </p>
 </div>
 <div class="w3-content" style="max-width:800px">
-<p><img class="mySlides" src="images/bd_pn/Slide1.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide2.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide3.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide4.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide5.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide6.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide7.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide8.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide9.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide10.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide11.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide12.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide13.PNG" style="width:100%"></p>
+<p><img class="mySlides" src="images/bd_pn/Slide1.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide2.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide3.png" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide4.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide5.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide6.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide7.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide8.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide9.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide10.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide11.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide12.PNG" style="width:100%"> <img class="mySlides" src="images/bd_pn/Slide13.PNG" style="width:100%"></p>
 </div>
 <div class="w3-center">
 <p><button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button> <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next</button></p>
@@ -1455,11 +1472,21 @@ function showDivs(n) {
 <a href="files/slides/bd_pn.pdf">Download Learning Slides</a>
 </aside>
 <h2 id="promissory-note">Promissory Note</h2>
-<p>Meet Chris. He is your loan officer. The bank where he works is willing to loan you money so you can purchase a building for your growing business. Of course, Chris won’t just hand you the RM500,000 in cash you need to purchase the building. That would be foolish, for how would Chris know that he would get that borrowed money back from you?<br />
-What Chris does is to write up a promissory note for you. This note is a promise of payment. Once you sign this note, you agree to pay back the money along with any additional fees involved by a specific date.</p>
+<blockquote>
+<p>Definition: A signed document containing a written promise to pay a sum of money at specified date with or without interest. There note can be with or without interest. In this course, the interest bearing note will be calculated as simple interest using Banker’s Rule.</p>
+</blockquote>
+<figure>
+<img src="images/bd_pn/Burma_1926_Promissory_Note.jpg" alt="Source: https://en.m.wikipedia.org/wiki/promissory_note. A 1926 promissory note from the Imperial Bank of India" /><figcaption>Source: <a href="https://en.m.wikipedia.org/wiki/promissory_note" class="uri">https://en.m.wikipedia.org/wiki/promissory_note</a>. A 1926 promissory note from the Imperial Bank of India</figcaption>
+</figure>
 <aside style="font-style:italic; color:blue; float:right" align="center">
 In China during the Han Dynasty promissory notes appeared in 118 BC and were made of leather.[14] The Romans may have used promissory notes in 57 AD as a durable lightweight substance as evidence of a promise in that time have been found in London <a href="https://en.m.wikipedia.org/wiki/Promissory_note"><em>… read more at wikipedia</em></a>
 </aside>
+<h2 id="how-does-it-work">How does it work?</h2>
+<p>Consider the following situation.</p>
+<blockquote>
+<p>Meet Chris. He is your loan officer. The bank where he works is willing to loan you money so you can purchase a building for your growing business. Of course, Chris won’t just hand you the RM500,000 in cash you need to purchase the building. That would be foolish, for how would Chris know that he would get that borrowed money back from you?<br />
+What Chris does is to write up a promissory note for you. This note is a promise of payment. Once you sign this note, you agree to pay back the money along with any additional fees involved by a specific date.</p>
+</blockquote>
 <h3 id="terms">Terms</h3>
 <p>This promissory note that Chris has you sign is not just a sticky note saying that you will pay back the RM500,000 at some time in the future. This note goes into detail. It contains the terms or conditions that you will follow to pay back this large amount. It includes the interest rate that the bank charges you for borrowing money. This is how the bank makes money off of this transaction. It also includes the payment’s terms, such as when you are going to make payments and when the final payment will be made and the loan fully paid off.</p>
 <p>In exchange for this loan, the bank also will keep the deed of ownership to the building until your loan is paid off. This is also specified in the promissory note. Once your loan is paid off, then the bank will give you the deed of ownership. But until then, the bank owns the building. This provides the bank with security in case you end up not paying them back.</p>
@@ -1476,22 +1503,74 @@ In China during the Han Dynasty promissory notes appeared in 118 BC and were mad
 <li>Payoff Date: 30 years from today</li>
 </ul>
 <p>This promissory note is telling you that you have 30 years to pay off this loan. If you make a payment of RM2,684.11 every month for 30 years, you will have paid off your loan at the end of 30 years. This amount includes the annual interest rate of five percent.</p>
-<h3 id="calculations">Calculations</h3>
-<p>How did we calculate our monthly payment? We used this formula:</p>
-<p>The L stands for the loan amount, the r stands for the annual interest rate, the n stands for the total number of payments, and P stands for the monthly payment. What you do is you plug in your values for the annual interest rate, r, the loan amount, L, and the total number of payments, n. If you are making monthly payments, then your n will be in months and your r, your annual interest rate, will need to be divided by 12 to find the monthly interest rate.</p>
-<p>For your loan, we have L is RM500,000, r is five percent, or 0.05, and n is 360 for the total number of payments in months. Plugging these values in and remembering to divide the r by 12, we get this:</p>
+<h2 id="features-of-promissory-note">Features of Promissory Note</h2>
+<p>When writing a promissory note, the following items has to be considered:</p>
+<ul>
+<li>Maker : The name of person that sign the note (debtor)<br />
+</li>
+<li>Payee : The name of person that receive the note (creditor)<br />
+</li>
+<li>Face Value : The amount stated on the note or the amount borrowed<br />
+</li>
+<li>Date Issue : The date of the note is signed<br />
+</li>
+<li>Time (Term) : The length of period (must have if maturity date not stated)<br />
+</li>
+<li>Interest rate : the rate charge for interest bearing note (simple interest)<br />
+</li>
+<li>Maturity Date : The date the debt must be paid (optional)<br />
+</li>
+<li>Maturity Value : The amount has to be paid including interest (optional)</li>
+</ul>
+<p>As illustration of the above features, see the picture below:</p>
+<figure>
+<img src="images/bd_pn/note2.png" alt="Source: https://nazarsudhakar.blogspot.com/2014/02/promissory-note-details.html" /><figcaption>Source: <a href="https://nazarsudhakar.blogspot.com/2014/02/promissory-note-details.html" class="uri">https://nazarsudhakar.blogspot.com/2014/02/promissory-note-details.html</a></figcaption>
+</figure>
+<p><font color="blue">How to find the maturity value for interest bearing note?</font></p>
+<p>In most situation, for an interest bearing note, the maturity value is not stated on the note. For this situation, the maturity value can be calculated using the simple interest amount formula, i.e.,</p>
+<p><span class="math display">\[
+S\ =\ P(1\ +\ rt) 
+\]</span></p>
+<p><strong>Note:</strong> only simple interest using Banker’s Rule will be used in this lesson.</p>
 <h2 id="bank-discount">Bank Discount</h2>
 <p>It is a common practice by the bank to deduct charges from a loan in advance. This charges is called bank discount. Note that in bank discount it is different from the case of simple interest where the amount of maturity value is more than the amount borrowed. In simple interest, normally in the begining you have an amount will eventually will be more after certain time period, such taht the present value is lower than the future value.However, in bank discount it is the other way around.</p>
 <p>Consider a scenario where you borrow RM10,000 for 6 months from a bank that charged you a bank discount at a rate of 5% per annum. In this case, 5% of RM10,000 is RM500. So, the bank will deduct RM500 from the amount of loan RM10,000 in advance. Hence, you will only received RM9,500 from the loan you made with the bank.</p>
-<p>Thus,<br />
-- The money that the bank deduct in advanced is called <strong>Bank Discount</strong> - D = RM500<br />
-- The money left receives by the borrower is called <strong>Proceeds</strong> - Proceeds = RM9,500<br />
-- The <strong>maturity value</strong> is the value of the money actually borrowed - S = RM10,000</p>
+<p>Thus,</p>
+<ul>
+<li>The money that the bank deduct in advanced is called <strong>Bank Discount</strong> - D = RM500<br />
+</li>
+<li>The money left receives by the borrower is called <strong>Proceeds</strong> - Proceeds = RM9,500<br />
+</li>
+<li>The <strong>maturity value</strong> is the value of the money actually borrowed - S = RM10,000</li>
+</ul>
 So,<br />
 
 <center>
 <em>Maturity value = Proceeds + Bank Discount</em>
 </center>
+<p>To calculate the Bank Discount and Proceeds, we will use the following formula:</p>
+<p><span class="math display">\[
+\begin{aligned}
+D\ &amp;=\ Sdt \\
+\\
+where,\ D\ &amp;=\ Bank\ discount \\
+        d\ &amp;=\ discount\ rate \\
+        t\ &amp;=\ term\ of\ discount\ in\ years. \\
+\end{aligned}
+\]</span></p>
+<p>and,<br />
+<span class="math display">\[
+\begin{aligned}
+Proceeds,\ H\ &amp;=\ Maturity\ value\ –\ Bank\ discount\\                              
+             H\ &amp;=\ S\ –\ D\\
+             H\ &amp;=\ S\ –\ Sdt\\
+             H\ &amp;=\ S( 1 -  dt)\\
+\end{aligned}
+\]</span></p>
+<p>Sometimes, bank charged for their service with simple interest rate in mind. So, they will find the <font color="blue"><em>equivalent discount (service charge) rate</em></font> to the intended simple interest rate that they want to obtain. Below are the two formulas that can be used to calculate these rates.</p>
+<p><span class="math display">\[
+r\ =\ \frac{d}{1\ -\ dt}\ \ \ \ \ \ \ \ and\ \ \ \ \ \ \ \ d\ =\ \frac{r}{1\ +\ rt}
+\]</span></p>
 <h2 id="practice-questions">Practice Questions</h2>
 <p><em>Question 1</em><br />
 Farid owned a note dated 9 Aug 2001 without interest for RM676. He discounted the note at 6% and received proceeds of RM670.37. When was the maturity date of the note if the note was discounted on 14 Sept 2001?</p>
@@ -1582,6 +1661,15 @@ iii. the discount rate. <strong>(8.50%)</strong></p>
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->

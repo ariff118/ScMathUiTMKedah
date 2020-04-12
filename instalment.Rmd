@@ -157,7 +157,7 @@ Declining\ Balance\ Method\ \\
 I = \frac{Br(n+1)}{2m}\ \ \ \ \ or\ \ \ \ \ r=\frac{2mI}{B(n+1)}
 $$
 
-Here, P stands for our fixed monthly payment, L stands for the cost of the item, r stands for the interest rate, and n the total number of payments. To use this formula, we plug in our values for L, r, and n to calculate our P.  
+Here, P or B stands for the cost of the item or the original balance, r stands for the interest rate, t stands for time in years, m is payment term (i.e., m = 12 for monthly payment or m = 52 for weekly payment or etc.), and n the total number of payments.  
 
 ### Example  
 Let's use this formula to calculate our monthly payments for our car that costs RM20,000. 

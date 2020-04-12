@@ -19,8 +19,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Words of wisdoms ...  
+> Words of wisdom ...  
   
+## Learning Outcomes  
+
+By the end of this chapter, student should be able to  
+
+  - explain the meaning of a promissory note,  
+  - list the main features of a promissory note,  
+  - compute the face and maturity values of a promissory note,  
+  - explain the meaning of bank discount,  
+  - compute the bank discount and proceeds, and  
+  - compute simple interest rate that is equivalent to discount rate.  
+
 <html>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -109,13 +120,24 @@ function showDivs(n) {
 
 ## Promissory Note  
 
-Meet Chris. He is your loan officer. The bank where he works is willing to loan you money so you can purchase a building for your growing business. Of course, Chris won't just hand you the RM500,000 in cash you need to purchase the building. That would be foolish, for how would Chris know that he would get that borrowed money back from you?  
-What Chris does is to write up a promissory note for you. This note is a promise of payment. Once you sign this note, you agree to pay back the money along with any additional fees involved by a specific date.  
-  
+> Definition: 
+A signed document containing a written promise to pay a sum of money at specified date with or without interest.
+There note can be with or without interest. In this course, the interest bearing note will be calculated as simple interest using Banker’s Rule.  
+
+![Source: https://en.m.wikipedia.org/wiki/promissory_note. A 1926 promissory note from the Imperial Bank of India](images/bd_pn/Burma_1926_Promissory_Note.jpg)  
+
 <aside style="font-style:italic; color:blue; float:right" align="center">  
 In China during the Han Dynasty promissory notes appeared in 118 BC and were made of leather.[14] The Romans may have used promissory notes in 57 AD as a durable lightweight substance as evidence of a promise in that time have been found in London [*... read more at wikipedia*](https://en.m.wikipedia.org/wiki/Promissory_note)
 </aside>  
 
+
+## How does it work?  
+
+Consider the following situation.  
+
+> Meet Chris. He is your loan officer. The bank where he works is willing to loan you money so you can purchase a building for your growing business. Of course, Chris won't just hand you the RM500,000 in cash you need to purchase the building. That would be foolish, for how would Chris know that he would get that borrowed money back from you?  
+What Chris does is to write up a promissory note for you. This note is a promise of payment. Once you sign this note, you agree to pay back the money along with any additional fees involved by a specific date.  
+  
 ### Terms  
 
 This promissory note that Chris has you sign is not just a sticky note saying that you will pay back the RM500,000 at some time in the future. This note goes into detail. It contains the terms or conditions that you will follow to pay back this large amount. It includes the interest rate that the bank charges you for borrowing money. This is how the bank makes money off of this transaction. It also includes the payment's terms, such as when you are going to make payments and when the final payment will be made and the loan fully paid off.  
@@ -123,26 +145,44 @@ This promissory note that Chris has you sign is not just a sticky note saying th
 In exchange for this loan, the bank also will keep the deed of ownership to the building until your loan is paid off. This is also specified in the promissory note. Once your loan is paid off, then the bank will give you the deed of ownership. But until then, the bank owns the building. This provides the bank with security in case you end up not paying them back.  
 
 You might see your promissory note written like this:  
-  
-- Amount: 	RM500,000  
-- Date: 	Today  
-- Interest Rate: 	5% annually  
-- Payment Amount: 	RM2,684.11 due the first of each month  
-- Payoff Date: 	30 years from today  
+
+  - Amount: 	RM500,000  
+  - Date: 	Today  
+  - Interest Rate: 	5% annually  
+  - Payment Amount: 	RM2,684.11 due the first of each month  
+  - Payoff Date: 	30 years from today  
 
 This promissory note is telling you that you have 30 years to pay off this loan. If you make a payment of RM2,684.11 every month for 30 years, you will have paid off your loan at the end of 30 years. This amount includes the annual interest rate of five percent.  
 
-### Calculations  
+## Features of Promissory Note  
 
-How did we calculate our monthly payment? We used this formula:  
-  
-  
-The L stands for the loan amount, the r stands for the annual interest rate, the n stands for the total number of payments, and P stands for the monthly payment. What you do is you plug in your values for the annual interest rate, r, the loan amount, L, and the total number of payments, n. If you are making monthly payments, then your n will be in months and your r, your annual interest rate, will need to be divided by 12 to find the monthly interest rate.  
+When writing a promissory note, the following items has to be considered:  
 
-For your loan, we have L is RM500,000, r is five percent, or 0.05, and n is 360 for the total number of payments in months. Plugging these values in and remembering to divide the r by 12, we get this:  
+  - Maker : The name of person that sign the note (debtor)  
+  - Payee : The name of person that receive the note (creditor)  
+  - Face Value : The amount stated on the note or the amount borrowed  
+  - Date Issue : The date of the note is signed  
+  - Time (Term) : The length of period (must have if maturity date not stated)  
+  - Interest rate : the rate charge for interest bearing note (simple interest)  
+  - Maturity Date : The date the debt must be paid (optional)  
+  - Maturity Value : The amount has to be paid including interest (optional)  
   
-  
-  
+As illustration of the above features, see the picture below:  
+
+![Source: https://nazarsudhakar.blogspot.com/2014/02/promissory-note-details.html
+](images/bd_pn/note2.png)  
+
+<font color="blue">How to find the maturity value for interest bearing note?</font>  
+
+In most situation, for an interest bearing note, the maturity value is not stated on the note. For this situation, the maturity value can be calculated using the simple interest amount formula, i.e.,  
+
+$$
+S\ =\ P(1\ +\ rt) 
+$$  
+
+**Note:** only simple interest using Banker’s Rule will be used in this lesson.  
+
+
 ## Bank Discount  
 
 It is a common practice by the bank to deduct charges from a loan in advance. This charges is called bank discount. Note that in bank discount it is different from the case of simple interest where the amount of maturity value is more than the amount borrowed. In simple interest, normally in the begining you have an amount will eventually will be more after certain time period, such taht the present value is lower than the future value.However, in bank discount it is the other way around.  
@@ -150,16 +190,43 @@ It is a common practice by the bank to deduct charges from a loan in advance. Th
 Consider a scenario where you borrow RM10,000 for 6 months from a bank that charged you a bank discount at a rate of 5% per annum. In this case, 5% of RM10,000 is RM500. So, the bank will deduct RM500 from the amount of loan RM10,000 in advance. Hence, you will only received RM9,500 from the loan you made with the bank.
 
 Thus,  
-- The money that the bank deduct in advanced is called **Bank Discount** - D = RM500  
-- The money left receives by the borrower is called **Proceeds** - Proceeds = RM9,500  
-- The **maturity value** is the value of the money actually borrowed - S = RM10,000  
+
+  - The money that the bank deduct in advanced is called **Bank Discount** - D = RM500  
+  - The money left receives by the borrower is called **Proceeds** - Proceeds = RM9,500  
+  - The **maturity value** is the value of the money actually borrowed - S = RM10,000  
 
 So,  
 <center>  
 *Maturity value = Proceeds + Bank Discount*  
 </center>  
 
+To calculate the Bank Discount and Proceeds, we will use the following formula:  
 
+$$
+\begin{aligned}
+D\ &=\ Sdt \\
+\\
+where,\ D\ &=\ Bank\ discount \\
+        d\ &=\ discount\ rate \\
+        t\ &=\ term\ of\ discount\ in\ years. \\
+\end{aligned}
+$$  
+
+and,  
+$$
+\begin{aligned}
+Proceeds,\ H\ &=\ Maturity\ value\ –\ Bank\ discount\\   	                        
+        	 H\ &=\ S\ –\ D\\
+       		 H\ &=\ S\ –\ Sdt\\
+       		 H\ &=\ S( 1 -  dt)\\
+\end{aligned}
+$$  
+
+Sometimes, bank charged for their service with simple interest rate in mind. So, they will find the <font color="blue">*equivalent discount (service charge) rate*</font> to the intended simple interest rate that they want to obtain. Below are the two formulas that can be used to calculate these rates.  
+
+$$
+r\ =\ \frac{d}{1\ -\ dt}\ \ \ \ \ \ \ \ and\ \ \ \ \ \ \ \ d\ =\ \frac{r}{1\ +\ rt}
+$$  
 
 
 ## Practice Questions  

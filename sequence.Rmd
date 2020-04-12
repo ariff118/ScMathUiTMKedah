@@ -266,7 +266,7 @@ A geometric progression, or GP, is a sequence where each new term after the firs
 
 If the first term of the sequence is $a$ then the geometric progression is  
 
-<center>a, ar, ar2, ar3, ...</center>  
+<center>$a,\ ar,\ ar_2,\ ar_3,\ ...$</center>  
 
 where the n-th term is given by  
 $$T_n\ =\ ar^{n-1}$$  

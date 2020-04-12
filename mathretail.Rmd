@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-> Words of Wisdoms  
+> Words of Wisdom  
 
 <html>
 <title>W3.CSS</title>
@@ -125,11 +125,10 @@ function showDivs(n) {
 [Download Learning Slides](files/slides/mr.pdf)
 </aside>  
 
-# Mathematics of Retailing
+# Mathematics of Retailing  
 
-> After watching this video lesson, you will become familiar with how stores price their products to make a profit. Learn about how they increase their prices, markup, and how they decrease their prices, markdown.  
 
-**A T-Shirt Business**
+> **A T-Shirt Business**
 Shalon has a t-shirt business where she sells her own line of designer shirts. She is in it for the money. But in order to make money from selling her t-shirts, she needs to make sure her prices are at the right price point both in terms of making money and giving her customers a good deal. What she needs to balance is her markup, how much to increase her prices, and her markdown, how much to decrease prices.  
 
 ## Markup  
