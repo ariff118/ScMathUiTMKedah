@@ -158,6 +158,43 @@ $$
 
 Here, P or B stands for the cost of the item or the original balance, r stands for the interest rate, t stands for time in years, m is payment term (i.e., m = 12 for monthly payment or m = 52 for weekly payment or etc.), and n the total number of payments.  
 
+### Interest charge based on original balance  
+
+For an installment purchase, when interest charge is based on the original balance, the simple interest formula is used to calculate interest. Several expressions such as charge based on original unpaid balance charge based on simple interest rate and charge based on flat rate are common used in installment purchases but they all mean the same thing.  
+
+Normally, an installment purchase requires a down payment.  
+
+$$
+\begin{aligned}
+Original\ balance\ &=\ Cash\ Price\ –\ Down\ Payment \\
+B\ &=\ CP\ -\ DP
+\end{aligned}
+$$  
+
+The total amount paid in an installment plan by the buyer is called installment price; that is,  
+$$
+\begin{aligned}
+Installment\ Price\ &=\ Cash\ Price\ +\ Total\ Interest \\
+IP\ &=\ CP\ +\ I \\
+\end{aligned}
+$$  
+
+OR  
+
+$$
+\begin{aligned}
+Installment\ Price\ &=\ Down\ Payment\ +\ Total\ Monthly\ Payment  \\
+IP\ &=\ DP\ +\ nR \\
+\\
+and\\
+\\
+Monthly\ Payment\ &=\ \frac{Original\ Balance\ +\ Total\ Interest}{number\ of\ payment} \\
+R\ &=\ \frac{B\ +\ I}{n}
+\end{aligned}
+$$  
+
+
+
 ### Example  
 Let's use this formula to calculate our monthly payments for our car that costs RM20,000. 
 Note that if n is yearly, then r will be the annual interest rate. If n is monthly, then r

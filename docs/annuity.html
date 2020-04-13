@@ -1372,9 +1372,31 @@ QMT181/STA104
 </div>
 
 <div class="d-article">
+<h3 class="d-toc-header">Table of Contents</h3>
+<nav class="d-toc" id="TOC">
+<ul>
+<li><a href="#learning-outcomes">Learning Outcomes</a></li>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#future-value-of-an-annuity">Future Value of an Annuity</a></li>
+<li><a href="#present-value-of-an-annuity">Present Value of an Annuity</a></li>
+<li><a href="#application-of-annuity">Application of Annuity</a></li>
+</ul>
+</nav>
+<hr class="d-toc-separator"/>
 <blockquote>
 
 </blockquote>
+<h2 id="learning-outcomes">Learning Outcomes</h2>
+<p>By the end of this chapter, student should be able to:</p>
+<ul>
+<li>find the future value of annuity,<br />
+</li>
+<li>find the present value of annuity,<br />
+</li>
+<li>solve for annuity payment, R, the number of payments, n, and the interest rate, I, and<br />
+</li>
+<li>identify the problems where the present value and the future value of the annuity formula can be appropriately applied.</li>
+</ul>
 <html>
 <title>
 W3.CSS
@@ -1432,6 +1454,42 @@ function showDivs(n) {
 <aside>
 <a href="files/slides/annuity.pdf">Download Learning Slides</a>
 </aside>
+<h2 id="introduction">Introduction</h2>
+<p>An annuity is a sequence of payments made at regular time intervals. The time period in which these payments are made is called the term of the annuity while payment period is interval between annuity payments.</p>
+<p>An annuity in which the payments are made at the end of each payment period is called an ordinary annuity An annuity in which the payment period coincides wit the interest compounding period is called a simple annuity.</p>
+<p>Annuities considered here have terms given by fixed time intervals, periodic payments equal in size, payments made at the end of the payment periods, and payment periods coincide with the interest compounding period.</p>
+<p>Example of annuity includes house rents, mortgage payments, instalment payments on automobiles, and interest payments on money invested.</p>
+<h2 id="future-value-of-an-annuity">Future Value of an Annuity</h2>
+<p>The future value <span class="math inline">\(S\)</span> of an annuity of <span class="math inline">\(n\)</span> payments of <span class="math inline">\(R\)</span> ringgits each, paid at the end of each investment period into an account that earns interest at the rate of <span class="math inline">\(i\)</span> per period, is given by</p>
+<p><span class="math display">\[
+S\ =\ R\bigg[\frac{(1\ +\ i)^n\ -\ 1}{i}\bigg]  
+\]</span></p>
+<p>Then, to find the amount of interest paid or earned can be found by subtracting the total amount paid from the future value, i.e.,</p>
+<p><span class="math display">\[
+I\ =\ S\ -\ nR  
+\]</span></p>
+<h2 id="present-value-of-an-annuity">Present Value of an Annuity</h2>
+<p>The present value <span class="math inline">\(P\)</span> of an annuity of <span class="math inline">\(n\)</span> payments of <span class="math inline">\(R\)</span> ringgits each, paid at the end of each investment period into an account that earns interest at the rate of <span class="math inline">\(i\)</span> per period, is</p>
+<p><span class="math display">\[
+A\ =\ R\bigg[\frac{1\ -\ (1\ +\ i)^{-n}}{i}\bigg]  
+\]</span></p>
+<p>Then, to find the amount of interest paid or earned can be found by subtracting the present value from the total amount paid, i.e.,</p>
+<p><span class="math display">\[
+I\ =\ nR\ -\ A  
+\]</span></p>
+<h2 id="application-of-annuity">Application of Annuity</h2>
+<p>The application of annuity include the concept of taking a loan from a financial institution, purchasing item through instalment, etc.</p>
+<blockquote>
+<p>Consider a scenario where you want to buy a house worth RM250,000 cash price from a house developer. Since you don’t have that much money, a bank offers a loan, 90% of the cash price at certain interest rate paid through equal payment for certain duration of time. Thus, in this case you will have to pay the developer 10% of the cash price as down payment, while the balance 90% will be paid by the bank to the developer for the remaining amount. All you need to do now is to repay the loan to the bank by instalment.</p>
+</blockquote>
+<p>Here we have,<br />
+Down Payment (DP) = % x Cash Price (CP) = 10% x 250,000 = 25,000 Balance (A) = CP – DP = 250,000 – 25,000 = <strong>RM 225,000</strong> &lt;– This is the amount that you have to loan from a bank</p>
+<p>Two (2) important comcepts to remember:</p>
+<ol type="1">
+<li>When you have late payments –&gt; use formula <span class="math inline">\(S\)</span> (keywords: failed to pay or arrears).<br />
+</li>
+<li>When you want to pay early –&gt; use formula <span class="math inline">\(A\)</span> (keywords: settle the debt/loan immediately).</li>
+</ol>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -1439,6 +1497,15 @@ function showDivs(n) {
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
