@@ -119,6 +119,14 @@ Course Work (Continuous assessments) 	: 40%
 3. James Deitz,James Southam, Contemporary Business Mathematics for Colleges, 16th, Cengage Learning, 2012, ISBN: 9781111821326  
 4. Eugene Don,Joel Lerner, Schaum's Outline of Basic Business Mathematics, 2ed, 2nd, McGraw-Hill, 2009, ISBN:9780071611589  
 
+### *Assessment Evidence* {.tabset}  
+
+#### 20202  
+[Quiz 1 (2%)](files/assessment/QUIZ 1 MAT112.docx)  
+[Test 1 (10%)](files/assessment/Test 1 MAT402 May 2020.docx)
+
+
+#### 20204  
 
 
 

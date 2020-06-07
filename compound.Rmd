@@ -253,5 +253,6 @@ $S$ ---> total payment, total savings, accumulated amount
     ii. Calculate the compound amount if the investment is extended for another two years. **(RM23253.48)**  
     
 
+
 ## Acknowledgements {.appendix}  
 Chan, J. (2020). *Time Value of Money (TVM)*. Retrieved from https://www.investopedia.com/terms/t/timevalueofmoney.asp on March 8, 2020.  
