@@ -1,0 +1,33 @@
+---
+title: "MAT112 - Past Semester Final Examinations Question"
+description: |
+  Download Past Semester Exam Paper here!!!
+author: 
+  - name: "Kamarul Ariffin Mansor"
+    url: https://my.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+    affiliation: Universiti Teknologi MARA
+    affiliation_url: https://kedah.uitm.edu.my/v2/index.php
+date: 6-15-2020
+output: 
+  distill::distill_article:
+    self_contained: true
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+[December 2019](files/exampapers/mat112/2019 December.pdf)  
+[June 2019](files/exampapers/mat112/2019 June.pdf)  
+[December 2018](files/exampapers/mat112/2018 December.pdf)  
+[June 2018](files/exampapers/mat112/2018 June.pdf)  
+[January 2018](files/exampapers/mat112/2018 January.pdf)  
+[July 2017](files/exampapers/mat112/2017 July.pdf)  
+[March 2017](files/exampapers/mat112/2017 March.pdf)  
+[December 2016](files/exampapers/mat112/2016 December.pdf)  
+[October 2016](files/exampapers/mat112/2016 October.pdf)  
+[December 2015](files/exampapers/mat112/2015 December.pdf)  

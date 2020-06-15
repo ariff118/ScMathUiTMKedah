@@ -165,7 +165,7 @@ a column separator -->
 :::
 
 ::: {.column width="30%"}
-|![](images/norin.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|![](images/norin_rahayu.jpeg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
 |:-----:|
 | **Norin Rahayu Shamsuddin** |    
 | Senior Lecturer |    

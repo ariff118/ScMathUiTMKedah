@@ -53,6 +53,16 @@ navbar:
           href: project_qmt181.html
         - text: "Class Notes"
           href: qmt181_notes.html
+    - text: "Past Semester Exam Questions"
+      menu:
+        - text: "MAT111"
+          href: qb_mat111.html
+        - text: "MAT112"
+          href: qb_mat112.html
+        - text: "MAT402"
+          href: qb_mat402.html
+        - text: "QMT181/STA104"
+          href: qb_qmt181.html
     - text: "About Us"
       href: about.html
   right:
