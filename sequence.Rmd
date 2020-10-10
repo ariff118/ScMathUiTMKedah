@@ -36,33 +36,33 @@ Aamiin Ya Rabbal'alamiin
   <h2>Learning Slides</h2>
 </div>
 <div class="w3-content" style="max-width:800px">
-  <img class="mySlides" src="images\sequence\Slide1.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide2.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide3.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide4.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide5.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide6.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide7.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide8.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide9.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide10.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide11.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide12.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide13.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide14.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide15.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide16.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide17.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide18.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide19.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide20.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide21.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide22.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide23.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide24.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide25.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide26.png" style="width:100%">
-  <img class="mySlides" src="images\sequence\Slide27.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide1.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide2.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide3.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide4.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide5.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide6.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide7.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide8.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide9.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide10.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide11.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide12.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide13.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide14.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide15.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide16.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide17.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide18.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide19.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide20.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide21.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide22.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide23.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide24.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide25.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide26.png" style="width:100%">
+  <img class="mySlides" src="images\Sequence\Slide27.png" style="width:100%">
 </div>
 <div class="w3-center">
   <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">Prev</button>
