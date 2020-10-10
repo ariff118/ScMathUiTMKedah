@@ -11,12 +11,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-|![](images/anis_mardiana.jpg)|  
+|![](images/noor_hafizah_zainal_aznam.jpg)|  
 |:-----:|
-| **Anis Mardiana Binti Ahmad** |    
+| **Noor Hafizah Zainal Aznam** |  
 | Course Coordinator, Senior Lecturer |    
 | Management Mathematics |
-| anis513@kedah.uitm.edu.my |
+| noorhafizah@uitm.edu.my |  
 
 :::::: {style="display: flex; "}
 
@@ -94,12 +94,12 @@ a column separator -->
 :::
 
 ::: {.column width="30%"}
-|![](images/noor_hafizah_zainal_aznam.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
+|![](images/anis_mardiana.jpg){width="50%" height="50%" style="display: rounded-circle; margin: 0 auto"}|  
 |:-----:|
-| **Noor Hafizah Zainal Aznam** |    
+| **Anis Mardiana Binti Ahmad** |        
 | Senior Lecturer |   
 | Mgmt. Mathematics |  
-| noorhafizah@uitm.edu.my |  
+| anis513@kedah.uitm.edu.my |  
 :::
 
 ::::::  
@@ -251,12 +251,12 @@ a column separator -->
 :::
 
 ::: {.column width="30%"}
-|![](images/male.png)|  
+|![](images/afida.png)|  
 |:-----:|
-| **Open Vacancy** |    
-| Position |    
-| Field |  
-| eMail |  
+| **Afida Ahmad (Dr.)** |    
+| Senior Lecturer |    
+| Mathematics |  
+| afidaahmad@uitm.edu.my |  
 :::
 
 ::: {.column width="5%"}
@@ -266,12 +266,12 @@ a column separator -->
 :::
 
 ::: {.column width="30%"}  
-|![](images/male.png)|  
+|![](images/nora_baizura.png)|  
 |:-----:|
-| **Open Vacancy** |    
-| Position |    
-| Field |  
-| eMail |  
+| **Nora Baizura Mohd Isa** |    
+| Senior Lecturer |    
+| Mathematics |  
+| norabaizura@uitm.edu.my |  
 :::
 
 ::::::  
